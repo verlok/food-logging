@@ -24,7 +24,7 @@ targets:
       path: MacroLog/Info.plist
       properties:
         CFBundleDisplayName: MacroLog
-        CFBundleLocalizations: [en, it]
+        CFBundleLocalizations: [en, it, es, fr, pt]
         CFBundleDevelopmentRegion: en
         UILaunchScreen: {}
         UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]

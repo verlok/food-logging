@@ -3,7 +3,25 @@
   "strings": {
     "%@ / %@ g": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / %@ g"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / %@ g"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / %@ g"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ / %@ g"
@@ -13,7 +31,25 @@
     },
     "%@ g": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ g"
@@ -23,7 +59,25 @@
     },
     "%@ g/kg": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g/kg"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g/kg"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g/kg"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ g/kg"
@@ -33,7 +87,25 @@
     },
     "%@ kcal": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kcal"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kcal"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kcal"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ kcal"
@@ -43,7 +115,25 @@
     },
     "%@ kg": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kg"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kg"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kg"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ kg"
@@ -53,37 +143,109 @@
     },
     "1 dish": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 plato"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 plat"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "1 piatto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 prato"
           }
         }
       }
     },
     "1 serving": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porción"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 portion"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "1 porzione"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porção"
           }
         }
       }
     },
     "1 serving (%@ g)": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porción (%@ g)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 portion (%@ g)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "1 porzione (%@ g)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 porção (%@ g)"
           }
         }
       }
     },
     "100 g": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100 g"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100 g"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "100 g"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "100 g"
@@ -93,7 +255,25 @@
     },
     "1M": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1M"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1M"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1M"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "1M"
@@ -103,7 +283,25 @@
     },
     "1W": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1S"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1S"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1S"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "1S"
@@ -113,7 +311,25 @@
     },
     "1Y": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1A"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1A"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1A"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "1A"
@@ -123,17 +339,53 @@
     },
     "30 days": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 días"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 jours"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "30 giorni"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 dias"
           }
         }
       }
     },
     "3M": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3M"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3M"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3M"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "3M"
@@ -143,157 +395,445 @@
     },
     "7 days": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 días"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 jours"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "7 giorni"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 dias"
           }
         }
       }
     },
     "AI dish": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plato con IA"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plat avec IA"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Piatto con IA"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prato com IA"
           }
         }
       }
     },
     "AI dish creation": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creación de platos con IA"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Création de plats avec IA"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Creazione piatti con IA"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Criação de pratos com IA"
           }
         }
       }
     },
     "About": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acerca de"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À propos"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Informazioni"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre"
           }
         }
       }
     },
     "About you": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre ti"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À propos de vous"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Su di te"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre você"
           }
         }
       }
     },
     "Activity": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actividad"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activité"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Attività"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atividade"
           }
         }
       }
     },
     "Add": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiungi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionar"
           }
         }
       }
     },
     "Add food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter un aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiungi alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionar alimento"
           }
         }
       }
     },
     "Add one serving of %@": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir una porción de %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter une portion de %@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiungi una porzione di %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionar uma porção de %@"
           }
         }
       }
     },
     "Add to favorites": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir a favoritos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter aux favoris"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiungi ai preferiti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicionar aos favoritos"
           }
         }
       }
     },
     "All": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tous"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Tutti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todos"
           }
         }
       }
     },
     "All nutrients": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todos los nutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tous les nutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Tutti i nutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todos os nutrientes"
           }
         }
       }
     },
     "Amount": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cantidad"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quantité"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Quantità"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quantidade"
           }
         }
       }
     },
     "Average eaten": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promedio consumido"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moyenne consommée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Media mangiata"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Média consumida"
           }
         }
       }
     },
     "Birth date": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fecha de nacimiento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date de naissance"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Data di nascita"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data de nascimento"
           }
         }
       }
     },
     "Brand": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marca"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marque"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marca"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Marca"
@@ -303,207 +843,585 @@
     },
     "Brand (optional)": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marca (opcional)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marque (facultatif)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Marca (facoltativa)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Marca (opcional)"
           }
         }
       }
     },
     "Calories": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calorías"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calories"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Calorie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calorias"
           }
         }
       }
     },
     "Camera": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appareil photo"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Fotocamera"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Câmera"
           }
         }
       }
     },
     "Cancel": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annuler"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Annulla"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelar"
           }
         }
       }
     },
     "Carbohydrates": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carbohidratos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glucides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Carboidrati"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carboidratos"
           }
         }
       }
     },
     "Charts": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gráficos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Graphiques"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grafici"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gráficos"
           }
         }
       }
     },
     "Choose photo": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegir foto"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisir une photo"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Scegli foto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escolher foto"
           }
         }
       }
     },
     "Claude API key": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clave API de Claude"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clé API Claude"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Chiave API Claude"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chave de API Claude"
           }
         }
       }
     },
     "Confidence": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fiabilidad"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fiabilité"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Affidabilità"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confiabilidade"
           }
         }
       }
     },
     "Continue": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuer"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Continua"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuar"
           }
         }
       }
     },
     "Copy": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Copia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar"
           }
         }
       }
     },
     "Copy from": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar de"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier depuis"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Copia da"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar de"
           }
         }
       }
     },
     "Copy from another day": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar de otro día"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier depuis un autre jour"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Copia da un altro giorno"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar de outro dia"
           }
         }
       }
     },
     "Copy to now": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar a ahora"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier vers maintenant"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Copia ad adesso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar para agora"
           }
         }
       }
     },
     "Copy to…": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar en…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier vers…"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Copia in…"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar para…"
           }
         }
       }
     },
     "Create a food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crear un alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Créer un aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Crea un alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Criar um alimento"
           }
         }
       }
     },
     "Current weight": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso actual"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poids actuel"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Peso attuale"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso atual"
           }
         }
       }
     },
     "Currently": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actualmente"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actuellement"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Attualmente"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atualmente"
           }
         }
       }
     },
     "Daily expenditure": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gasto diario"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dépense quotidienne"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Spesa giornaliera"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gasto diário"
           }
         }
       }
     },
     "Daily targets": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objetivos diarios"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objectifs quotidiens"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Obiettivi giornalieri"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metas diárias"
           }
         }
       }
     },
     "Date": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fecha"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Data"
@@ -513,237 +1431,669 @@
     },
     "Day": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Día"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jour"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Giorno"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dia"
           }
         }
       }
     },
     "Delete": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Elimina"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Excluir"
           }
         }
       }
     },
     "Delete entry": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminar entrada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer l'entrée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Elimina voce"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Excluir registro"
           }
         }
       }
     },
     "Delete food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminar alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer l'aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Elimina alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Excluir alimento"
           }
         }
       }
     },
     "Describe or photograph a dish": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Describe o fotografía un plato"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Décrivez ou photographiez un plat"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Descrivi o fotografa un piatto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descreva ou fotografe um prato"
           }
         }
       }
     },
     "Describe the dish": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Describe el plato"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Décrivez le plat"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Descrivi il piatto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descreva o prato"
           }
         }
       }
     },
     "Destination": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Destino"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Destination"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Destinazione"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Destino"
           }
         }
       }
     },
     "Diary": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diario"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journal"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Diario"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diário"
           }
         }
       }
     },
     "Dish name": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre del plato"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom du plat"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nome del piatto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nome do prato"
           }
         }
       }
     },
     "Dishes": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Platos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plats"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Piatti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pratos"
           }
         }
       }
     },
     "Done": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Fine"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
           }
         }
       }
     },
     "Eaten": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consumidas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consommées"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Mangiate"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consumidas"
           }
         }
       }
     },
     "Edit": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modifier"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Modifica"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar"
           }
         }
       }
     },
     "Edit food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modifier l'aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Modifica alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar alimento"
           }
         }
       }
     },
     "Entries to copy": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entradas a copiar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entrées à copier"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Voci da copiare"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros a copiar"
           }
         }
       }
     },
     "Estimate nutrition": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimar valores"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimer les valeurs"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Stima i valori"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimar valores"
           }
         }
       }
     },
     "Estimated expenditure": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gasto calórico estimado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dépense calorique estimée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Spesa calorica stimata"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gasto calórico estimado"
           }
         }
       }
     },
     "Estimating…": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimando…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimation en cours…"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Stima in corso…"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimando…"
           }
         }
       }
     },
     "Expenditure": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gasto"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dépense"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Spesa"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gasto"
           }
         }
       }
     },
     "Fat": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lipides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras"
           }
         }
       }
     },
     "Fat share": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proporción de grasas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Part des lipides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Quota di grassi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proporção de gorduras"
           }
         }
       }
     },
     "Favorite": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favorito"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favori"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Preferito"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favorito"
           }
         }
       }
     },
     "Favorites": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favoritos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favoris"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Preferiti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favoritos"
           }
         }
       }
     },
     "Filter": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtro"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtre"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtro"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Filtro"
@@ -753,7 +2103,25 @@
     },
     "Food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aliment"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alimento"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Alimento"
@@ -763,227 +2131,641 @@
     },
     "Foods": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alimentos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aliments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Alimenti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alimentos"
           }
         }
       }
     },
     "Foods in database": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alimentos en la base de datos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aliments dans la base de données"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Alimenti nel database"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alimentos no banco de dados"
           }
         }
       }
     },
     "Goal": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objetivo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objectif"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Obiettivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meta"
           }
         }
       }
     },
     "Grams": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gramos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grammes"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grammi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gramas"
           }
         }
       }
     },
     "Height": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Altura"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taille"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Altezza"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Altura"
           }
         }
       }
     },
     "History": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historial"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historique"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Storico"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Histórico"
           }
         }
       }
     },
     "Ingredients": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ingredientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ingrédients"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ingredienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ingredientes"
           }
         }
       }
     },
     "Into": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vers"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "In"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Em"
           }
         }
       }
     },
     "Language": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langue"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Lingua"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma"
           }
         }
       }
     },
     "Log some days to see micronutrient coverage.": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registra algunos días para ver la cobertura de micronutrientes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrez quelques jours pour voir la couverture en micronutriments."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra qualche giorno per vedere la copertura dei micronutrienti."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registre alguns dias para ver a cobertura de micronutrientes."
           }
         }
       }
     },
     "Log this food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar este alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer cet aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra questo alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar este alimento"
           }
         }
       }
     },
     "Log weight": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar peso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer le poids"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra peso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar peso"
           }
         }
       }
     },
     "Logged": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistré"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Registrato"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrado"
           }
         }
       }
     },
     "Macronutrient split": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reparto de macronutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Répartition des macronutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ripartizione macronutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Distribuição de macronutrientes"
           }
         }
       }
     },
     "Macronutrients": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macronutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macronutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Macronutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macronutrientes"
           }
         }
       }
     },
     "Micronutrients": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Micronutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Micronutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Micronutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Micronutrientes"
           }
         }
       }
     },
     "Mine": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Míos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les miens"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Miei"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meus"
           }
         }
       }
     },
     "Model": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modelo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Modello"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modelo"
           }
         }
       }
     },
     "More actions": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más acciones"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus d'actions"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Altre azioni"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mais ações"
           }
         }
       }
     },
     "More micronutrients": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más micronutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autres micronutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Altri micronutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mais micronutrientes"
           }
         }
       }
     },
     "Move": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Sposta"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover"
           }
         }
       }
     },
     "Move to…": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover a…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer vers…"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Sposta in…"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover para…"
           }
         }
       }
     },
     "Name": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nome"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Nome"
@@ -993,497 +2775,1397 @@
     },
     "Name (optional)": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre (opcional)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom (facultatif)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nome (facoltativo)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nome (opcional)"
           }
         }
       }
     },
     "New food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nuevo alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nouvel aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nuovo alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Novo alimento"
           }
         }
       }
     },
     "Next day": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Día siguiente"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jour suivant"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Giorno successivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dia seguinte"
           }
         }
       }
     },
     "No data in this range": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin datos en este periodo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune donnée sur cette période"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nessun dato in questo periodo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sem dados neste período"
           }
         }
       }
     },
     "No weight logged yet": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ningún peso registrado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun poids enregistré"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nessun peso registrato"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhum peso registrado"
           }
         }
       }
     },
     "Nothing logged on that day": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nada registrado ese día"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien d'enregistré ce jour-là"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nulla registrato quel giorno"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nada registrado nesse dia"
           }
         }
       }
     },
     "Nothing logged yet": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nada registrado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien d'enregistré"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nulla registrato"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nada registrado"
           }
         }
       }
     },
     "Now": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ahora"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenant"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Adesso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agora"
           }
         }
       }
     },
     "Nutrition": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valores nutricionales"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valeurs nutritionnelles"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Valori nutrizionali"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valores nutricionais"
           }
         }
       }
     },
     "Only calories are required.": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo las calorías son obligatorias."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seules les calories sont obligatoires."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Solo le calorie sono obbligatorie."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apenas as calorias são obrigatórias."
           }
         }
       }
     },
     "Open system settings": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir ajustes del sistema"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les réglages du système"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Apri impostazioni di sistema"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir ajustes do sistema"
           }
         }
       }
     },
     "Or use a photo": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O usa una foto"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ou utilisez une photo"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Oppure usa una foto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ou use uma foto"
           }
         }
       }
     },
     "Override manually": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Establecer manualmente"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Définir manuellement"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Imposta manualmente"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Definir manualmente"
           }
         }
       }
     },
     "Portion": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porción"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Portion"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Porzione"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porção"
           }
         }
       }
     },
     "Previous day": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Día anterior"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jour précédent"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Giorno precedente"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dia anterior"
           }
         }
       }
     },
     "Profile": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfil"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profil"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Profilo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfil"
           }
         }
       }
     },
     "Protein": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protéines"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Proteine"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas"
           }
         }
       }
     },
     "Protein per kg": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas por kg"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protéines par kg"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Proteine per kg"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas por kg"
           }
         }
       }
     },
     "Quick add": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadir rápido"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajout rapide"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiunta rapida"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adição rápida"
           }
         }
       }
     },
     "Range": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Periodo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Période"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Periodo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Período"
           }
         }
       }
     },
     "Recent": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Récents"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Recenti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recentes"
           }
         }
       }
     },
     "Remove from favorites": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitar de favoritos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retirer des favoris"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Rimuovi dai preferiti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remover dos favoritos"
           }
         }
       }
     },
     "Remove photo": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitar foto"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer la photo"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Rimuovi foto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remover foto"
           }
         }
       }
     },
     "Result": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resultado"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Résultat"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Risultato"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resultado"
           }
         }
       }
     },
     "Save": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Salva"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salvar"
           }
         }
       }
     },
     "Save key": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar clave"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer la clé"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Salva chiave"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salvar chave"
           }
         }
       }
     },
     "Scope": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ámbito"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Portée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ambito"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escopo"
           }
         }
       }
     },
     "Search food": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar alimento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechercher un aliment"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Cerca alimento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar alimento"
           }
         }
       }
     },
     "Search foods": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar alimentos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechercher des aliments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Cerca alimenti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar alimentos"
           }
         }
       }
     },
     "Serving": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porción"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Portion"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Porzione"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porção"
           }
         }
       }
     },
     "Serving name, e.g. 1 slice": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre de la porción, p. ej. 1 rebanada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom de la portion, ex. 1 tranche"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nome porzione, es. 1 fetta"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nome da porção, ex. 1 fatia"
           }
         }
       }
     },
     "Serving size": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamaño de la porción"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taille de la portion"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Dimensione porzione"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tamanho da porção"
           }
         }
       }
     },
     "Servings": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porciones"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Portions"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Porzioni"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porções"
           }
         }
       }
     },
     "Settings": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Impostazioni"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustes"
           }
         }
       }
     },
     "Sex": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexe"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Sesso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sexo"
           }
         }
       }
     },
     "Source": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Origen"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Origine"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Origem"
           }
         }
       }
     },
     "Start tracking": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar a registrar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commencer le suivi"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Inizia a tracciare"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Começar a registrar"
           }
         }
       }
     },
     "Strategy": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estrategia"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stratégie"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Strategia"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estratégia"
           }
         }
       }
     },
     "Tap for micronutrients": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toca para ver los micronutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touchez pour les micronutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Tocca per i micronutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toque para ver os micronutrientes"
           }
         }
       }
     },
     "Target": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objetivo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Objectif"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Obiettivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meta"
           }
         }
       }
     },
     "Time": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hora"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heure"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ora"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hora"
           }
         }
       }
     },
     "Today": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoy"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aujourd'hui"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Oggi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoje"
           }
         }
       }
     },
     "Tomorrow": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mañana"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demain"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Domani"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amanhã"
           }
         }
       }
     },
     "Total weight": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso total"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poids total"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Peso totale"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso total"
           }
         }
       }
     },
     "Trend": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tendencia"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tendance"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Andamento"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tendência"
           }
         }
       }
     },
     "Trend weight": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso tendencial"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poids tendanciel"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Peso tendenziale"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso de tendência"
           }
         }
       }
     },
     "Values are per": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valores por"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valeurs pour"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Valori per"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valores por"
           }
         }
       }
     },
     "Version": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versión"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Versione"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versão"
           }
         }
       }
     },
     "Weekly rate": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ritmo semanal"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rythme hebdomadaire"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ritmo settimanale"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ritmo semanal"
           }
         }
       }
     },
     "Weight": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poids"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Peso"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Peso"
@@ -1493,17 +4175,53 @@
     },
     "Welcome": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Te damos la bienvenida"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bienvenue"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Benvenuto"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boas-vindas"
           }
         }
       }
     },
     "When": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuándo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quand"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quando"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Quando"
@@ -1513,10 +4231,28 @@
     },
     "Yesterday": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayer"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hier"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ieri"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ontem"
           }
         }
       }
@@ -1529,10 +4265,28 @@
             "value": "Active"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actif"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Attivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ativo"
           }
         }
       }
@@ -1545,10 +4299,28 @@
             "value": "Hard exercise 6–7 days a week."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ejercicio intenso 6–7 días a la semana."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercice intense 6–7 jours par semaine."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Esercizio intenso 6–7 giorni a settimana."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercício intenso 6–7 dias por semana."
           }
         }
       }
@@ -1561,10 +4333,28 @@
             "value": "Lightly active"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ligeramente activo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Légèrement actif"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Leggermente attivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levemente ativo"
           }
         }
       }
@@ -1577,10 +4367,28 @@
             "value": "Light exercise 1–3 days a week."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ejercicio ligero 1–3 días a la semana."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercice léger 1–3 jours par semaine."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Esercizio leggero 1–3 giorni a settimana."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercício leve 1–3 dias por semana."
           }
         }
       }
@@ -1593,10 +4401,28 @@
             "value": "Moderately active"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moderadamente activo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modérément actif"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Moderatamente attivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moderadamente ativo"
           }
         }
       }
@@ -1609,10 +4435,28 @@
             "value": "Moderate exercise 3–5 days a week."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ejercicio moderado 3–5 días a la semana."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercice modéré 3–5 jours par semaine."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Esercizio moderato 3–5 giorni a settimana."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercício moderado 3–5 dias por semana."
           }
         }
       }
@@ -1625,10 +4469,28 @@
             "value": "Sedentary"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sedentario"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sédentaire"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Sedentario"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sedentário"
           }
         }
       }
@@ -1641,10 +4503,28 @@
             "value": "Desk job, little or no exercise."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trabajo de oficina, poco o ningún ejercicio."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Travail de bureau, peu ou pas d'exercice."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Lavoro sedentario, poco o nessun esercizio."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trabalho de escritório, pouco ou nenhum exercício."
           }
         }
       }
@@ -1657,10 +4537,28 @@
             "value": "Very active"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Muy activo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Très actif"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Molto attivo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Muito ativo"
           }
         }
       }
@@ -1673,10 +4571,28 @@
             "value": "Physical job or training twice a day."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trabajo físico o entrenamiento dos veces al día."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Travail physique ou entraînement deux fois par jour."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Lavoro fisico o allenamento due volte al giorno."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trabalho físico ou treino duas vezes por dia."
           }
         }
       }
@@ -1689,10 +4605,28 @@
             "value": "Added %@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añadido %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ajouté"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiunto %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ adicionado"
           }
         }
       }
@@ -1705,10 +4639,28 @@
             "value": "The AI service returned no estimate."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servicio de IA no devolvió ninguna estimación."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le service d'IA n'a renvoyé aucune estimation."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Il servizio IA non ha restituito alcuna stima."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O serviço de IA não retornou nenhuma estimativa."
           }
         }
       }
@@ -1721,10 +4673,28 @@
             "value": "Request failed (%lld): %@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La solicitud falló (%lld): %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Échec de la requête (%lld) : %@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Richiesta fallita (%lld): %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A solicitação falhou (%lld): %@"
           }
         }
       }
@@ -1737,10 +4707,28 @@
             "value": "The AI service returned an unexpected response."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servicio de IA devolvió una respuesta inesperada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le service d'IA a renvoyé une réponse inattendue."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Il servizio IA ha restituito una risposta inattesa."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O serviço de IA retornou uma resposta inesperada."
           }
         }
       }
@@ -1753,10 +4741,28 @@
             "value": "No Claude API key set. Add one in Settings."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay ninguna clave API de Claude. Añade una en Ajustes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune clé API Claude définie. Ajoutez-en une dans les Réglages."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Nessuna chiave API Claude impostata. Aggiungila nelle Impostazioni."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhuma chave de API Claude definida. Adicione uma em Ajustes."
           }
         }
       }
@@ -1769,10 +4775,28 @@
             "value": "The AI service declined this request."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servicio de IA rechazó esta solicitud."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le service d'IA a refusé cette requête."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Il servizio IA ha rifiutato la richiesta."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O serviço de IA recusou esta solicitação."
           }
         }
       }
@@ -1785,10 +4809,28 @@
             "value": "Add your Claude API key in Settings to use AI dish creation."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Añade tu clave API de Claude en Ajustes para crear platos con IA."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajoutez votre clé API Claude dans les Réglages pour créer des plats avec l'IA."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aggiungi la tua chiave API Claude nelle Impostazioni per creare piatti con l'IA."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adicione sua chave de API Claude em Ajustes para criar pratos com IA."
           }
         }
       }
@@ -1801,10 +4843,28 @@
             "value": "Estimate the nutrition of this dish: %@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estima los valores nutricionales de este plato: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estime les valeurs nutritionnelles de ce plat : %@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Stima i valori nutrizionali di questo piatto: %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estime os valores nutricionais deste prato: %@"
           }
         }
       }
@@ -1817,10 +4877,28 @@
             "value": "Estimate the nutrition of the food in this photo."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estima los valores nutricionales de la comida de esta foto."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estime les valeurs nutritionnelles de la nourriture sur cette photo."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Stima i valori nutrizionali del cibo in questa foto."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estime os valores nutricionais da comida nesta foto."
           }
         }
       }
@@ -1833,10 +4911,28 @@
             "value": "Estimate the nutrition of the food in this photo. Additional details from the user: %@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estima los valores nutricionales de la comida de esta foto. Detalles adicionales del usuario: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estime les valeurs nutritionnelles de la nourriture sur cette photo. Détails supplémentaires de l'utilisateur : %@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Stima i valori nutrizionali del cibo in questa foto. Dettagli aggiuntivi dell'utente: %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estime os valores nutricionais da comida nesta foto. Detalhes adicionais do usuário: %@"
           }
         }
       }
@@ -1849,10 +4945,28 @@
             "value": "%@ calories eaten of %@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ calorías consumidas de %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ calories consommées sur %@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ calorie mangiate su %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ calorias consumidas de %@"
           }
         }
       }
@@ -1877,6 +4991,42 @@
             }
           }
         },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Copiada %lld entrada"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Copiadas %lld entradas"
+                }
+              }
+            }
+          }
+        },
+        "fr": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld entrée copiée"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld entrées copiées"
+                }
+              }
+            }
+          }
+        },
         "it": {
           "variations": {
             "plural": {
@@ -1894,6 +5044,24 @@
               }
             }
           }
+        },
+        "pt": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Copiado %lld registro"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Copiados %lld registros"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1905,10 +5073,28 @@
             "value": "Copied %@ to now"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ copiado a ahora"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ copié vers maintenant"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ copiato ad adesso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ copiado para agora"
           }
         }
       }
@@ -1921,10 +5107,28 @@
             "value": "Copied %1$@ to %2$@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ copiado en %2$@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ copié vers %2$@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ copiato in %2$@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ copiado para %2$@"
           }
         }
       }
@@ -1937,20 +5141,56 @@
             "value": "Tap “Add food” to log what you eat. The current time is pre-selected."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toca “Añadir alimento” para registrar lo que comes. La hora actual está preseleccionada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touchez « Ajouter un aliment » pour enregistrer ce que vous mangez. L'heure actuelle est présélectionnée."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Tocca “Aggiungi alimento” per registrare ciò che mangi. L'ora attuale è preselezionata."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toque em “Adicionar alimento” para registrar o que você come. A hora atual está pré-selecionada."
           }
         }
       }
     },
     "e.g. pasta with tomato sauce, 120 g, parmesan": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "p. ej. pasta con tomate, 120 g, parmesano"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ex. pâtes à la sauce tomate, 120 g, parmesan"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "es. pasta al pomodoro, 120 g, parmigiano"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ex. macarrão ao molho de tomate, 120 g, parmesão"
           }
         }
       }
@@ -1975,6 +5215,42 @@
             }
           }
         },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld entrada"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld entradas"
+                }
+              }
+            }
+          }
+        },
+        "fr": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld entrée"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld entrées"
+                }
+              }
+            }
+          }
+        },
         "it": {
           "variations": {
             "plural": {
@@ -1992,6 +5268,24 @@
               }
             }
           }
+        },
+        "pt": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld registro"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld registros"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2003,10 +5297,28 @@
             "value": "Based on %lld logged days of food and weight (data weight %@)."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basado en %lld días registrados de comida y peso (peso de los datos %@)."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basée sur %lld jours enregistrés de nourriture et de poids (poids des données %@)."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Basata su %lld giorni registrati di cibo e peso (peso dei dati %@)."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baseado em %lld dias registrados de comida e peso (peso dos dados %@)."
           }
         }
       }
@@ -2019,10 +5331,28 @@
             "value": "Estimated from your profile. Log your weight and food daily: after a week the estimate adapts to your real data."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimado a partir de tu perfil. Registra tu peso y tu comida cada día: tras una semana, la estimación se adapta a tus datos reales."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimée à partir de votre profil. Enregistrez votre poids et votre alimentation chaque jour : après une semaine, l'estimation s'adapte à vos données réelles."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Stimata dal tuo profilo. Registra peso e cibo ogni giorno: dopo una settimana la stima si adatta ai tuoi dati reali."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimado a partir do seu perfil. Registre seu peso e sua comida todos os dias: após uma semana, a estimativa se adapta aos seus dados reais."
           }
         }
       }
@@ -2035,10 +5365,28 @@
             "value": "Set manually in Settings."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Establecido manualmente en Ajustes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Définie manuellement dans les Réglages."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Impostata manualmente nelle Impostazioni."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Definido manualmente em Ajustes."
           }
         }
       }
@@ -2063,6 +5411,42 @@
             }
           }
         },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld alimento"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld alimentos"
+                }
+              }
+            }
+          }
+        },
+        "fr": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld aliment"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld aliments"
+                }
+              }
+            }
+          }
+        },
         "it": {
           "variations": {
             "plural": {
@@ -2080,6 +5464,24 @@
               }
             }
           }
+        },
+        "pt": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld alimento"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld alimentos"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2091,10 +5493,28 @@
             "value": "Gain weight"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ganar peso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prendre du poids"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Aumentare di peso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ganhar peso"
           }
         }
       }
@@ -2107,10 +5527,28 @@
             "value": "Lose weight"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perder peso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perdre du poids"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Dimagrire"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perder peso"
           }
         }
       }
@@ -2123,17 +5561,53 @@
             "value": "Maintain weight"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantener el peso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenir le poids"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Mantenere il peso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manter o peso"
           }
         }
       }
     },
     "kcal": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kcal"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kcal"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kcal"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "kcal"
@@ -2149,10 +5623,28 @@
             "value": "Moved %1$@ to %2$@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ movido a %2$@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ déplacé vers %2$@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ spostato in %2$@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ movido para %2$@"
           }
         }
       }
@@ -2165,10 +5657,28 @@
             "value": "Calcium"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calcio"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calcium"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Calcio"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cálcio"
           }
         }
       }
@@ -2181,10 +5691,28 @@
             "value": "Calories"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calorías"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calories"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Calorie"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calorias"
           }
         }
       }
@@ -2197,10 +5725,28 @@
             "value": "Carbohydrates"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carbohidratos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glucides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Carboidrati"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carboidratos"
           }
         }
       }
@@ -2213,7 +5759,25 @@
             "value": "Energy"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energía"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Énergie"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energia"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Energia"
@@ -2229,10 +5793,28 @@
             "value": "Lipids"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lípidos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lipides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Lipidi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lipídios"
           }
         }
       }
@@ -2245,10 +5827,28 @@
             "value": "Macronutrients"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macronutrientes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macronutriments"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Macronutrienti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Macronutrientes"
           }
         }
       }
@@ -2261,10 +5861,28 @@
             "value": "Minerals"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minerales"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minéraux"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Minerali"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Minerais"
           }
         }
       }
@@ -2277,10 +5895,28 @@
             "value": "Vitamins"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitaminas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamines"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamine"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitaminas"
           }
         }
       }
@@ -2293,10 +5929,28 @@
             "value": "Cholesterol"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Colesterol"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cholestérol"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Colesterolo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Colesterol"
           }
         }
       }
@@ -2309,10 +5963,28 @@
             "value": "Copper"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cobre"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuivre"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Rame"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cobre"
           }
         }
       }
@@ -2325,10 +5997,28 @@
             "value": "Fat"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lipides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras"
           }
         }
       }
@@ -2341,10 +6031,28 @@
             "value": "Fiber"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fibra"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fibres"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Fibre"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fibras"
           }
         }
       }
@@ -2357,10 +6065,28 @@
             "value": "Folate (B9)"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Folato (B9)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Folates (B9)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Folati (B9)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Folato (B9)"
           }
         }
       }
@@ -2373,7 +6099,25 @@
             "value": "Iron"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hierro"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fer"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ferro"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Ferro"
@@ -2389,10 +6133,28 @@
             "value": "Magnesium"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnesio"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnésium"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Magnesio"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magnésio"
           }
         }
       }
@@ -2405,10 +6167,28 @@
             "value": "Manganese"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manganeso"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manganèse"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Manganese"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manganês"
           }
         }
       }
@@ -2421,10 +6201,28 @@
             "value": "Monounsaturated fat"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas monoinsaturadas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acides gras monoinsaturés"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi monoinsaturi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras monoinsaturadas"
           }
         }
       }
@@ -2437,7 +6235,25 @@
             "value": "Niacin (B3)"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niacina (B3)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niacine (B3)"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niacina (B3)"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Niacina (B3)"
@@ -2453,10 +6269,28 @@
             "value": "Phosphorus"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fósforo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Phosphore"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Fosforo"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fósforo"
           }
         }
       }
@@ -2469,10 +6303,28 @@
             "value": "Polyunsaturated fat"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas poliinsaturadas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acides gras polyinsaturés"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi polinsaturi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras poli-insaturadas"
           }
         }
       }
@@ -2485,10 +6337,28 @@
             "value": "Potassium"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Potasio"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Potassium"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Potassio"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Potássio"
           }
         }
       }
@@ -2501,10 +6371,28 @@
             "value": "Protein"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protéines"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Proteine"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas"
           }
         }
       }
@@ -2517,7 +6405,25 @@
             "value": "Riboflavin (B2)"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riboflavina (B2)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riboflavine (B2)"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riboflavina (B2)"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Riboflavina (B2)"
@@ -2533,10 +6439,28 @@
             "value": "Saturated fat"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas saturadas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acides gras saturés"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi saturi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras saturadas"
           }
         }
       }
@@ -2549,10 +6473,28 @@
             "value": "Selenium"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selenio"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sélénium"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Selenio"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selênio"
           }
         }
       }
@@ -2565,7 +6507,25 @@
             "value": "Carbs"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carbos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Glucides"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carbo"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Carbo"
@@ -2581,10 +6541,28 @@
             "value": "Fat"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lipides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras"
           }
         }
       }
@@ -2597,10 +6575,28 @@
             "value": "Protein"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protéines"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Proteine"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proteínas"
           }
         }
       }
@@ -2613,10 +6609,28 @@
             "value": "Sodium"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sodio"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sodium"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Sodio"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sódio"
           }
         }
       }
@@ -2629,10 +6643,28 @@
             "value": "Sugars"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Azúcares"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sucres"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Zuccheri"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Açúcares"
           }
         }
       }
@@ -2645,7 +6677,25 @@
             "value": "Thiamin (B1)"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiamina (B1)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thiamine (B1)"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiamina (B1)"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Tiamina (B1)"
@@ -2661,10 +6711,28 @@
             "value": "Trans fat"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grasas trans"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acides gras trans"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Grassi trans"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gorduras trans"
           }
         }
       }
@@ -2677,7 +6745,25 @@
             "value": "Vitamin A"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina A"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine A"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina A"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina A"
@@ -2693,7 +6779,25 @@
             "value": "Vitamin B12"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina B12"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine B12"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina B12"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina B12"
@@ -2709,7 +6813,25 @@
             "value": "Vitamin B6"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina B6"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine B6"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina B6"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina B6"
@@ -2725,7 +6847,25 @@
             "value": "Vitamin C"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina C"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine C"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina C"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina C"
@@ -2741,7 +6881,25 @@
             "value": "Vitamin D"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina D"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine D"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina D"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina D"
@@ -2757,7 +6915,25 @@
             "value": "Vitamin E"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina E"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine E"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina E"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina E"
@@ -2773,7 +6949,25 @@
             "value": "Vitamin K"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina K"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamine K"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamina K"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Vitamina K"
@@ -2789,7 +6983,25 @@
             "value": "Zinc"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zinc"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zinc"
+          }
+        },
         "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zinco"
+          }
+        },
+        "pt": {
           "stringUnit": {
             "state": "translated",
             "value": "Zinco"
@@ -2805,10 +7017,28 @@
             "value": "Used only for the first estimate. After a week of logging, your real data takes over."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se usa solo para la primera estimación. Tras una semana de registros, tus datos reales toman el relevo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisé uniquement pour la première estimation. Après une semaine de suivi, vos données réelles prennent le relais."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Usato solo per la prima stima. Dopo una settimana di registrazioni, prendono il sopravvento i tuoi dati reali."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usado apenas para a primeira estimativa. Após uma semana de registros, seus dados reais assumem."
           }
         }
       }
@@ -2821,10 +7051,28 @@
             "value": "You can change goal and strategy at any time in Settings."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puedes cambiar el objetivo y la estrategia en cualquier momento en Ajustes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous pouvez modifier l'objectif et la stratégie à tout moment dans les Réglages."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Puoi cambiare obiettivo e strategia in qualsiasi momento nelle Impostazioni."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Você pode alterar a meta e a estratégia a qualquer momento em Ajustes."
           }
         }
       }
@@ -2837,10 +7085,28 @@
             "value": "MacroLog learns your real energy expenditure from the weight and food you log, and adjusts your daily calorie and macro targets."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MacroLog aprende tu gasto energético real a partir del peso y la comida que registras, y ajusta tus objetivos diarios de calorías y macronutrientes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MacroLog apprend votre dépense énergétique réelle à partir du poids et des aliments que vous enregistrez, et ajuste vos objectifs quotidiens de calories et de macronutriments."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "MacroLog impara la tua spesa energetica reale dal peso e dal cibo che registri e aggiorna i tuoi obiettivi giornalieri di calorie e macronutrienti."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O MacroLog aprende seu gasto energético real a partir do peso e da comida que você registra, e ajusta suas metas diárias de calorias e macronutrientes."
           }
         }
       }
@@ -2853,40 +7119,112 @@
             "value": "Track meals, hit your macros, reach your goal."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registra tus comidas, cumple tus macros, alcanza tu objetivo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Suivez vos repas, atteignez vos macros, réalisez votre objectif."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Registra i pasti, centra i macro, raggiungi il tuo obiettivo."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registre suas refeições, acerte seus macros, alcance sua meta."
           }
         }
       }
     },
     "over": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "de más"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "en excès"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "in eccesso"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "a mais"
           }
         }
       }
     },
     "per 100 g": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "por 100 g"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pour 100 g"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "per 100 g"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "por 100 g"
           }
         }
       }
     },
     "remaining": {
       "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "restantes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "restantes"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "rimanenti"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "restantes"
           }
         }
       }
@@ -2899,10 +7237,28 @@
             "value": "Servings (%@)"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porciones (%@)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Portions (%@)"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Porzioni (%@)"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Porções (%@)"
           }
         }
       }
@@ -2915,10 +7271,28 @@
             "value": "The key is stored in the Keychain and sent only to api.anthropic.com. Photos and descriptions are sent to the model to estimate nutrition."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La clave se guarda en el llavero y se envía solo a api.anthropic.com. Las fotos y descripciones se envían al modelo para estimar los valores nutricionales."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La clé est stockée dans le trousseau et envoyée uniquement à api.anthropic.com. Les photos et descriptions sont envoyées au modèle pour estimer les valeurs nutritionnelles."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "La chiave è salvata nel Portachiavi e inviata solo ad api.anthropic.com. Foto e descrizioni vengono inviate al modello per stimare i valori nutrizionali."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A chave é armazenada nas Chaves e enviada apenas para api.anthropic.com. Fotos e descrições são enviadas ao modelo para estimar os valores nutricionais."
           }
         }
       }
@@ -2931,10 +7305,28 @@
             "value": "MacroLog follows the language of your device. You can choose a different language for this app from the system settings."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MacroLog sigue el idioma del dispositivo. Puedes elegir otro idioma para esta app en los ajustes del sistema."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MacroLog suit la langue de votre appareil. Vous pouvez choisir une autre langue pour cette app dans les réglages du système."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "MacroLog segue la lingua del dispositivo. Puoi scegliere una lingua diversa per questa app dalle impostazioni di sistema."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O MacroLog segue o idioma do dispositivo. Você pode escolher outro idioma para este app nos ajustes do sistema."
           }
         }
       }
@@ -2947,10 +7339,28 @@
             "value": "Female"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mujer"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Femme"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Femmina"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feminino"
           }
         }
       }
@@ -2963,10 +7373,28 @@
             "value": "Male"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hombre"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Homme"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Maschio"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masculino"
           }
         }
       }
@@ -2979,10 +7407,28 @@
             "value": "Created with AI"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creado con IA"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Créé avec l'IA"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Creato con l'IA"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Criado com IA"
           }
         }
       }
@@ -2995,10 +7441,28 @@
             "value": "Built-in database"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base de datos integrada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base de données intégrée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Database integrato"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Banco de dados integrado"
           }
         }
       }
@@ -3011,10 +7475,28 @@
             "value": "Created by you"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creado por ti"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Créé par vous"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Creato da te"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Criado por você"
           }
         }
       }
@@ -3027,10 +7509,28 @@
             "value": "Balanced"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Equilibrada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Équilibrée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Bilanciata"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Equilibrada"
           }
         }
       }
@@ -3043,10 +7543,28 @@
             "value": "Custom"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personalizada"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personnalisée"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Personalizzata"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personalizada"
           }
         }
       }
@@ -3059,10 +7577,28 @@
             "value": "High protein"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alta en proteínas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Riche en protéines"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Alto contenuto proteico"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rica em proteínas"
           }
         }
       }
@@ -3075,10 +7611,28 @@
             "value": "Low carb"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baja en carbohidratos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pauvre en glucides"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Pochi carboidrati"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baixa em carboidratos"
           }
         }
       }
@@ -3091,10 +7645,28 @@
             "value": "%@ g of protein per kg of body weight, %@ of calories from fat."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g de proteínas por kg de peso corporal, %@ de las calorías de las grasas."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g de protéines par kg de poids corporel, %@ des calories issues des lipides."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "%@ g di proteine per kg di peso corporeo, %@ delle calorie dai grassi."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ g de proteínas por kg de peso corporal, %@ das calorias vindas das gorduras."
           }
         }
       }
@@ -3107,10 +7679,28 @@
             "value": "Latest: %@"
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Último: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dernier : %@"
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "Ultimo: %@"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Último: %@"
           }
         }
       }
@@ -3123,10 +7713,28 @@
             "value": "Dots are your measurements; the line is the smoothed trend that filters daily water fluctuations."
           }
         },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los puntos son tus mediciones; la línea es la tendencia suavizada que filtra las fluctuaciones diarias de líquidos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les points sont vos mesures ; la ligne est la tendance lissée qui filtre les fluctuations hydriques quotidiennes."
+          }
+        },
         "it": {
           "stringUnit": {
             "state": "translated",
             "value": "I punti sono le tue misurazioni; la linea è l'andamento smussato che filtra le oscillazioni giornaliere dovute ai liquidi."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os pontos são suas medições; a linha é a tendência suavizada que filtra as oscilações diárias de líquidos."
           }
         }
       }

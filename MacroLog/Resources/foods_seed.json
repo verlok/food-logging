@@ -3,7 +3,10 @@
   "id": "pasta_dry",
   "names": {
    "en": "Pasta, dry",
-   "it": "Pasta secca"
+   "it": "Pasta secca",
+   "es": "Pasta seca",
+   "fr": "Pâtes sèches",
+   "pt": "Macarrão cru"
   },
   "serving": 80,
   "nutrients": {
@@ -24,14 +27,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "pasta_whole",
   "names": {
    "en": "Whole wheat pasta, dry",
-   "it": "Pasta integrale secca"
+   "it": "Pasta integrale secca",
+   "es": "Pasta integral seca",
+   "fr": "Pâtes complètes sèches",
+   "pt": "Macarrão integral cru"
   },
   "serving": 80,
   "nutrients": {
@@ -51,14 +60,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "rice_white",
   "names": {
    "en": "White rice, dry",
-   "it": "Riso bianco crudo"
+   "it": "Riso bianco crudo",
+   "es": "Arroz blanco crudo",
+   "fr": "Riz blanc cru",
+   "pt": "Arroz branco cru"
   },
   "serving": 80,
   "nutrients": {
@@ -78,14 +93,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "rice_brown",
   "names": {
    "en": "Brown rice, dry",
-   "it": "Riso integrale crudo"
+   "it": "Riso integrale crudo",
+   "es": "Arroz integral crudo",
+   "fr": "Riz complet cru",
+   "pt": "Arroz integral cru"
   },
   "serving": 80,
   "nutrients": {
@@ -105,14 +126,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "rice_cooked",
   "names": {
    "en": "White rice, cooked",
-   "it": "Riso bianco cotto"
+   "it": "Riso bianco cotto",
+   "es": "Arroz blanco cocido",
+   "fr": "Riz blanc cuit",
+   "pt": "Arroz branco cozido"
   },
   "serving": 150,
   "nutrients": {
@@ -130,14 +157,20 @@
   },
   "servingLabel": {
    "en": "1 cup",
-   "it": "1 tazza"
+   "it": "1 tazza",
+   "es": "1 taza",
+   "fr": "1 tasse",
+   "pt": "1 xícara"
   }
  },
  {
   "id": "bread_white",
   "names": {
    "en": "White bread",
-   "it": "Pane bianco"
+   "it": "Pane bianco",
+   "es": "Pan blanco",
+   "fr": "Pain blanc",
+   "pt": "Pão branco"
   },
   "serving": 50,
   "nutrients": {
@@ -156,14 +189,20 @@
   },
   "servingLabel": {
    "en": "1 slice",
-   "it": "1 fetta"
+   "it": "1 fetta",
+   "es": "1 rebanada",
+   "fr": "1 tranche",
+   "pt": "1 fatia"
   }
  },
  {
   "id": "bread_whole",
   "names": {
    "en": "Whole wheat bread",
-   "it": "Pane integrale"
+   "it": "Pane integrale",
+   "es": "Pan integral",
+   "fr": "Pain complet",
+   "pt": "Pão integral"
   },
   "serving": 50,
   "nutrients": {
@@ -183,14 +222,20 @@
   },
   "servingLabel": {
    "en": "1 slice",
-   "it": "1 fetta"
+   "it": "1 fetta",
+   "es": "1 rebanada",
+   "fr": "1 tranche",
+   "pt": "1 fatia"
   }
  },
  {
   "id": "oats",
   "names": {
    "en": "Rolled oats",
-   "it": "Fiocchi d'avena"
+   "it": "Fiocchi d'avena",
+   "es": "Copos de avena",
+   "fr": "Flocons d'avoine",
+   "pt": "Aveia em flocos"
   },
   "serving": 40,
   "nutrients": {
@@ -212,14 +257,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "cornflakes",
   "names": {
    "en": "Corn flakes",
-   "it": "Corn flakes"
+   "it": "Corn flakes",
+   "es": "Copos de maíz",
+   "fr": "Corn flakes",
+   "pt": "Flocos de milho"
   },
   "serving": 30,
   "nutrients": {
@@ -239,14 +290,20 @@
   },
   "servingLabel": {
    "en": "1 bowl",
-   "it": "1 ciotola"
+   "it": "1 ciotola",
+   "es": "1 bol",
+   "fr": "1 bol",
+   "pt": "1 tigela"
   }
  },
  {
   "id": "muesli",
   "names": {
    "en": "Muesli",
-   "it": "Muesli"
+   "it": "Muesli",
+   "es": "Muesli",
+   "fr": "Muesli",
+   "pt": "Muesli"
   },
   "serving": 50,
   "nutrients": {
@@ -265,14 +322,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "crackers",
   "names": {
    "en": "Crackers",
-   "it": "Crackers"
+   "it": "Crackers",
+   "es": "Crackers",
+   "fr": "Crackers",
+   "pt": "Biscoito cream cracker"
   },
   "serving": 30,
   "nutrients": {
@@ -290,14 +353,20 @@
   },
   "servingLabel": {
    "en": "1 pack",
-   "it": "1 pacchetto"
+   "it": "1 pacchetto",
+   "es": "1 paquete",
+   "fr": "1 paquet",
+   "pt": "1 pacote"
   }
  },
  {
   "id": "rusks",
   "names": {
    "en": "Rusks",
-   "it": "Fette biscottate"
+   "it": "Fette biscottate",
+   "es": "Biscotes",
+   "fr": "Biscottes",
+   "pt": "Torradas"
   },
   "serving": 10,
   "nutrients": {
@@ -315,14 +384,20 @@
   },
   "servingLabel": {
    "en": "1 rusk",
-   "it": "1 fetta"
+   "it": "1 fetta",
+   "es": "1 biscote",
+   "fr": "1 biscotte",
+   "pt": "1 torrada"
   }
  },
  {
   "id": "couscous",
   "names": {
    "en": "Couscous, dry",
-   "it": "Cous cous crudo"
+   "it": "Cous cous crudo",
+   "es": "Cuscús crudo",
+   "fr": "Couscous cru",
+   "pt": "Cuscuz cru"
   },
   "serving": 70,
   "nutrients": {
@@ -340,14 +415,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "quinoa",
   "names": {
    "en": "Quinoa, dry",
-   "it": "Quinoa cruda"
+   "it": "Quinoa cruda",
+   "es": "Quinoa cruda",
+   "fr": "Quinoa crue",
+   "pt": "Quinoa crua"
   },
   "serving": 70,
   "nutrients": {
@@ -368,14 +449,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "flour",
   "names": {
    "en": "Wheat flour",
-   "it": "Farina di frumento"
+   "it": "Farina di frumento",
+   "es": "Harina de trigo",
+   "fr": "Farine de blé",
+   "pt": "Farinha de trigo"
   },
   "serving": 100,
   "nutrients": {
@@ -396,7 +483,10 @@
   "id": "pizza_margherita",
   "names": {
    "en": "Pizza margherita",
-   "it": "Pizza margherita"
+   "it": "Pizza margherita",
+   "es": "Pizza margarita",
+   "fr": "Pizza margherita",
+   "pt": "Pizza marguerita"
   },
   "serving": 300,
   "nutrients": {
@@ -415,14 +505,20 @@
   },
   "servingLabel": {
    "en": "1 pizza",
-   "it": "1 pizza"
+   "it": "1 pizza",
+   "es": "1 pizza",
+   "fr": "1 pizza",
+   "pt": "1 pizza"
   }
  },
  {
   "id": "potato",
   "names": {
    "en": "Potato, boiled",
-   "it": "Patate lesse"
+   "it": "Patate lesse",
+   "es": "Patata cocida",
+   "fr": "Pomme de terre bouillie",
+   "pt": "Batata cozida"
   },
   "serving": 150,
   "nutrients": {
@@ -443,14 +539,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "potato_fries",
   "names": {
    "en": "French fries",
-   "it": "Patatine fritte"
+   "it": "Patatine fritte",
+   "es": "Patatas fritas",
+   "fr": "Frites",
+   "pt": "Batata frita"
   },
   "serving": 120,
   "nutrients": {
@@ -469,14 +571,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "sweet_potato",
   "names": {
    "en": "Sweet potato, baked",
-   "it": "Patata dolce al forno"
+   "it": "Patata dolce al forno",
+   "es": "Boniato asado",
+   "fr": "Patate douce au four",
+   "pt": "Batata-doce assada"
   },
   "serving": 150,
   "nutrients": {
@@ -496,14 +604,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediano",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "lentils_cooked",
   "names": {
    "en": "Lentils, cooked",
-   "it": "Lenticchie cotte"
+   "it": "Lenticchie cotte",
+   "es": "Lentejas cocidas",
+   "fr": "Lentilles cuites",
+   "pt": "Lentilhas cozidas"
   },
   "serving": 150,
   "nutrients": {
@@ -524,14 +638,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "chickpeas_cooked",
   "names": {
    "en": "Chickpeas, cooked",
-   "it": "Ceci cotti"
+   "it": "Ceci cotti",
+   "es": "Garbanzos cocidos",
+   "fr": "Pois chiches cuits",
+   "pt": "Grão-de-bico cozido"
   },
   "serving": 150,
   "nutrients": {
@@ -552,14 +672,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "beans_cannellini",
   "names": {
    "en": "Cannellini beans, cooked",
-   "it": "Fagioli cannellini cotti"
+   "it": "Fagioli cannellini cotti",
+   "es": "Alubias cannellini cocidas",
+   "fr": "Haricots cannellini cuits",
+   "pt": "Feijão cannellini cozido"
   },
   "serving": 150,
   "nutrients": {
@@ -579,14 +705,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "beans_borlotti",
   "names": {
    "en": "Borlotti beans, cooked",
-   "it": "Fagioli borlotti cotti"
+   "it": "Fagioli borlotti cotti",
+   "es": "Alubias borlotti cocidas",
+   "fr": "Haricots borlotti cuits",
+   "pt": "Feijão borlotti cozido"
   },
   "serving": 150,
   "nutrients": {
@@ -605,14 +737,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "peas",
   "names": {
    "en": "Green peas",
-   "it": "Piselli"
+   "it": "Piselli",
+   "es": "Guisantes",
+   "fr": "Petits pois",
+   "pt": "Ervilhas"
   },
   "serving": 100,
   "nutrients": {
@@ -636,7 +774,10 @@
   "id": "tofu",
   "names": {
    "en": "Tofu, firm",
-   "it": "Tofu"
+   "it": "Tofu",
+   "es": "Tofu firme",
+   "fr": "Tofu ferme",
+   "pt": "Tofu firme"
   },
   "serving": 100,
   "nutrients": {
@@ -659,7 +800,10 @@
   "id": "hummus",
   "names": {
    "en": "Hummus",
-   "it": "Hummus"
+   "it": "Hummus",
+   "es": "Hummus",
+   "fr": "Houmous",
+   "pt": "Homus"
   },
   "serving": 30,
   "nutrients": {
@@ -677,14 +821,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "tomato",
   "names": {
    "en": "Tomato",
-   "it": "Pomodoro"
+   "it": "Pomodoro",
+   "es": "Tomate",
+   "fr": "Tomate",
+   "pt": "Tomate"
   },
   "serving": 120,
   "nutrients": {
@@ -705,14 +855,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 medio"
+   "it": "1 medio",
+   "es": "1 mediano",
+   "fr": "1 moyenne",
+   "pt": "1 médio"
   }
  },
  {
   "id": "tomato_sauce",
   "names": {
    "en": "Tomato passata",
-   "it": "Passata di pomodoro"
+   "it": "Passata di pomodoro",
+   "es": "Tomate triturado",
+   "fr": "Purée de tomates",
+   "pt": "Polpa de tomate"
   },
   "serving": 100,
   "nutrients": {
@@ -735,7 +891,10 @@
   "id": "zucchini",
   "names": {
    "en": "Zucchini",
-   "it": "Zucchine"
+   "it": "Zucchine",
+   "es": "Calabacín",
+   "fr": "Courgette",
+   "pt": "Abobrinha"
   },
   "serving": 150,
   "nutrients": {
@@ -755,14 +914,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediano",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "eggplant",
   "names": {
    "en": "Eggplant",
-   "it": "Melanzana"
+   "it": "Melanzana",
+   "es": "Berenjena",
+   "fr": "Aubergine",
+   "pt": "Berinjela"
   },
   "serving": 200,
   "nutrients": {
@@ -781,14 +946,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "bell_pepper",
   "names": {
    "en": "Red bell pepper",
-   "it": "Peperone rosso"
+   "it": "Peperone rosso",
+   "es": "Pimiento rojo",
+   "fr": "Poivron rouge",
+   "pt": "Pimentão vermelho"
   },
   "serving": 120,
   "nutrients": {
@@ -809,14 +980,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 medio"
+   "it": "1 medio",
+   "es": "1 mediano",
+   "fr": "1 moyen",
+   "pt": "1 médio"
   }
  },
  {
   "id": "broccoli",
   "names": {
    "en": "Broccoli",
-   "it": "Broccoli"
+   "it": "Broccoli",
+   "es": "Brócoli",
+   "fr": "Brocoli",
+   "pt": "Brócolis"
   },
   "serving": 150,
   "nutrients": {
@@ -838,14 +1015,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "spinach",
   "names": {
    "en": "Spinach",
-   "it": "Spinaci"
+   "it": "Spinaci",
+   "es": "Espinacas",
+   "fr": "Épinards",
+   "pt": "Espinafre"
   },
   "serving": 100,
   "nutrients": {
@@ -871,7 +1054,10 @@
   "id": "lettuce",
   "names": {
    "en": "Lettuce",
-   "it": "Lattuga"
+   "it": "Lattuga",
+   "es": "Lechuga",
+   "fr": "Laitue",
+   "pt": "Alface"
   },
   "serving": 80,
   "nutrients": {
@@ -892,14 +1078,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "rocket",
   "names": {
    "en": "Rocket",
-   "it": "Rucola"
+   "it": "Rucola",
+   "es": "Rúcula",
+   "fr": "Roquette",
+   "pt": "Rúcula"
   },
   "serving": 40,
   "nutrients": {
@@ -921,14 +1113,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "carrot",
   "names": {
    "en": "Carrot",
-   "it": "Carota"
+   "it": "Carota",
+   "es": "Zanahoria",
+   "fr": "Carotte",
+   "pt": "Cenoura"
   },
   "serving": 80,
   "nutrients": {
@@ -948,14 +1146,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "onion",
   "names": {
    "en": "Onion",
-   "it": "Cipolla"
+   "it": "Cipolla",
+   "es": "Cebolla",
+   "fr": "Oignon",
+   "pt": "Cebola"
   },
   "serving": 80,
   "nutrients": {
@@ -974,14 +1178,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyen",
+   "pt": "1 média"
   }
  },
  {
   "id": "garlic",
   "names": {
    "en": "Garlic",
-   "it": "Aglio"
+   "it": "Aglio",
+   "es": "Ajo",
+   "fr": "Ail",
+   "pt": "Alho"
   },
   "serving": 5,
   "nutrients": {
@@ -1000,14 +1210,20 @@
   },
   "servingLabel": {
    "en": "1 clove",
-   "it": "1 spicchio"
+   "it": "1 spicchio",
+   "es": "1 diente",
+   "fr": "1 gousse",
+   "pt": "1 dente"
   }
  },
  {
   "id": "cucumber",
   "names": {
    "en": "Cucumber",
-   "it": "Cetriolo"
+   "it": "Cetriolo",
+   "es": "Pepino",
+   "fr": "Concombre",
+   "pt": "Pepino"
   },
   "serving": 150,
   "nutrients": {
@@ -1026,14 +1242,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "mushrooms",
   "names": {
    "en": "Mushrooms",
-   "it": "Funghi champignon"
+   "it": "Funghi champignon",
+   "es": "Champiñones",
+   "fr": "Champignons de Paris",
+   "pt": "Cogumelos"
   },
   "serving": 100,
   "nutrients": {
@@ -1057,7 +1279,10 @@
   "id": "green_beans",
   "names": {
    "en": "Green beans",
-   "it": "Fagiolini"
+   "it": "Fagiolini",
+   "es": "Judías verdes",
+   "fr": "Haricots verts",
+   "pt": "Vagem"
   },
   "serving": 150,
   "nutrients": {
@@ -1077,14 +1302,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "cauliflower",
   "names": {
    "en": "Cauliflower",
-   "it": "Cavolfiore"
+   "it": "Cavolfiore",
+   "es": "Coliflor",
+   "fr": "Chou-fleur",
+   "pt": "Couve-flor"
   },
   "serving": 150,
   "nutrients": {
@@ -1105,14 +1336,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "artichoke",
   "names": {
    "en": "Artichoke, cooked",
-   "it": "Carciofo cotto"
+   "it": "Carciofo cotto",
+   "es": "Alcachofa cocida",
+   "fr": "Artichaut cuit",
+   "pt": "Alcachofra cozida"
   },
   "serving": 120,
   "nutrients": {
@@ -1133,14 +1370,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 medio"
+   "it": "1 medio",
+   "es": "1 mediana",
+   "fr": "1 moyen",
+   "pt": "1 média"
   }
  },
  {
   "id": "fennel",
   "names": {
    "en": "Fennel",
-   "it": "Finocchio"
+   "it": "Finocchio",
+   "es": "Hinojo",
+   "fr": "Fenouil",
+   "pt": "Funcho"
   },
   "serving": 150,
   "nutrients": {
@@ -1159,14 +1402,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "corn_sweet",
   "names": {
    "en": "Sweet corn",
-   "it": "Mais dolce"
+   "it": "Mais dolce",
+   "es": "Maíz dulce",
+   "fr": "Maïs doux",
+   "pt": "Milho verde"
   },
   "serving": 80,
   "nutrients": {
@@ -1186,14 +1435,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "avocado",
   "names": {
    "en": "Avocado",
-   "it": "Avocado"
+   "it": "Avocado",
+   "es": "Aguacate",
+   "fr": "Avocat",
+   "pt": "Abacate"
   },
   "serving": 100,
   "nutrients": {
@@ -1216,14 +1471,20 @@
   },
   "servingLabel": {
    "en": "1/2 fruit",
-   "it": "1/2 frutto"
+   "it": "1/2 frutto",
+   "es": "1/2 fruta",
+   "fr": "1/2 fruit",
+   "pt": "1/2 fruta"
   }
  },
  {
   "id": "olives",
   "names": {
    "en": "Olives",
-   "it": "Olive"
+   "it": "Olive",
+   "es": "Aceitunas",
+   "fr": "Olives",
+   "pt": "Azeitonas"
   },
   "serving": 15,
   "nutrients": {
@@ -1242,14 +1503,20 @@
   },
   "servingLabel": {
    "en": "5 olives",
-   "it": "5 olive"
+   "it": "5 olive",
+   "es": "5 aceitunas",
+   "fr": "5 olives",
+   "pt": "5 azeitonas"
   }
  },
  {
   "id": "apple",
   "names": {
    "en": "Apple",
-   "it": "Mela"
+   "it": "Mela",
+   "es": "Manzana",
+   "fr": "Pomme",
+   "pt": "Maçã"
   },
   "serving": 180,
   "nutrients": {
@@ -1268,14 +1535,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "banana",
   "names": {
    "en": "Banana",
-   "it": "Banana"
+   "it": "Banana",
+   "es": "Plátano",
+   "fr": "Banane",
+   "pt": "Banana"
   },
   "serving": 120,
   "nutrients": {
@@ -1296,14 +1569,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediano",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "orange",
   "names": {
    "en": "Orange",
-   "it": "Arancia"
+   "it": "Arancia",
+   "es": "Naranja",
+   "fr": "Orange",
+   "pt": "Laranja"
   },
   "serving": 150,
   "nutrients": {
@@ -1323,14 +1602,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "pear",
   "names": {
    "en": "Pear",
-   "it": "Pera"
+   "it": "Pera",
+   "es": "Pera",
+   "fr": "Poire",
+   "pt": "Pera"
   },
   "serving": 170,
   "nutrients": {
@@ -1349,14 +1634,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediana",
+   "fr": "1 moyenne",
+   "pt": "1 média"
   }
  },
  {
   "id": "strawberries",
   "names": {
    "en": "Strawberries",
-   "it": "Fragole"
+   "it": "Fragole",
+   "es": "Fresas",
+   "fr": "Fraises",
+   "pt": "Morangos"
   },
   "serving": 150,
   "nutrients": {
@@ -1377,14 +1668,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "blueberries",
   "names": {
    "en": "Blueberries",
-   "it": "Mirtilli"
+   "it": "Mirtilli",
+   "es": "Arándanos",
+   "fr": "Myrtilles",
+   "pt": "Mirtilos"
   },
   "serving": 100,
   "nutrients": {
@@ -1407,7 +1704,10 @@
   "id": "grapes",
   "names": {
    "en": "Grapes",
-   "it": "Uva"
+   "it": "Uva",
+   "es": "Uvas",
+   "fr": "Raisin",
+   "pt": "Uva"
   },
   "serving": 150,
   "nutrients": {
@@ -1427,14 +1727,20 @@
   },
   "servingLabel": {
    "en": "1 bunch",
-   "it": "1 grappolo"
+   "it": "1 grappolo",
+   "es": "1 racimo",
+   "fr": "1 grappe",
+   "pt": "1 cacho"
   }
  },
  {
   "id": "peach",
   "names": {
    "en": "Peach",
-   "it": "Pesca"
+   "it": "Pesca",
+   "es": "Melocotón",
+   "fr": "Pêche",
+   "pt": "Pêssego"
   },
   "serving": 150,
   "nutrients": {
@@ -1454,14 +1760,20 @@
   },
   "servingLabel": {
    "en": "1 medium",
-   "it": "1 media"
+   "it": "1 media",
+   "es": "1 mediano",
+   "fr": "1 moyenne",
+   "pt": "1 médio"
   }
  },
  {
   "id": "kiwi",
   "names": {
    "en": "Kiwi",
-   "it": "Kiwi"
+   "it": "Kiwi",
+   "es": "Kiwi",
+   "fr": "Kiwi",
+   "pt": "Kiwi"
   },
   "serving": 75,
   "nutrients": {
@@ -1482,14 +1794,20 @@
   },
   "servingLabel": {
    "en": "1 fruit",
-   "it": "1 frutto"
+   "it": "1 frutto",
+   "es": "1 fruta",
+   "fr": "1 fruit",
+   "pt": "1 fruta"
   }
  },
  {
   "id": "watermelon",
   "names": {
    "en": "Watermelon",
-   "it": "Anguria"
+   "it": "Anguria",
+   "es": "Sandía",
+   "fr": "Pastèque",
+   "pt": "Melancia"
   },
   "serving": 300,
   "nutrients": {
@@ -1509,14 +1827,20 @@
   },
   "servingLabel": {
    "en": "1 slice",
-   "it": "1 fetta"
+   "it": "1 fetta",
+   "es": "1 rodaja",
+   "fr": "1 tranche",
+   "pt": "1 fatia"
   }
  },
  {
   "id": "melon",
   "names": {
    "en": "Cantaloupe melon",
-   "it": "Melone"
+   "it": "Melone",
+   "es": "Melón cantalupo",
+   "fr": "Melon",
+   "pt": "Melão cantalupo"
   },
   "serving": 200,
   "nutrients": {
@@ -1536,14 +1860,20 @@
   },
   "servingLabel": {
    "en": "1 slice",
-   "it": "1 fetta"
+   "it": "1 fetta",
+   "es": "1 rodaja",
+   "fr": "1 tranche",
+   "pt": "1 fatia"
   }
  },
  {
   "id": "pineapple",
   "names": {
    "en": "Pineapple",
-   "it": "Ananas"
+   "it": "Ananas",
+   "es": "Piña",
+   "fr": "Ananas",
+   "pt": "Abacaxi"
   },
   "serving": 150,
   "nutrients": {
@@ -1563,14 +1893,20 @@
   },
   "servingLabel": {
    "en": "1 slice",
-   "it": "1 fetta"
+   "it": "1 fetta",
+   "es": "1 rodaja",
+   "fr": "1 tranche",
+   "pt": "1 fatia"
   }
  },
  {
   "id": "mango",
   "names": {
    "en": "Mango",
-   "it": "Mango"
+   "it": "Mango",
+   "es": "Mango",
+   "fr": "Mangue",
+   "pt": "Manga"
   },
   "serving": 150,
   "nutrients": {
@@ -1591,14 +1927,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "cherries",
   "names": {
    "en": "Cherries",
-   "it": "Ciliegie"
+   "it": "Ciliegie",
+   "es": "Cerezas",
+   "fr": "Cerises",
+   "pt": "Cerejas"
   },
   "serving": 100,
   "nutrients": {
@@ -1620,7 +1962,10 @@
   "id": "lemon_juice",
   "names": {
    "en": "Lemon juice",
-   "it": "Succo di limone"
+   "it": "Succo di limone",
+   "es": "Zumo de limón",
+   "fr": "Jus de citron",
+   "pt": "Suco de limão"
   },
   "serving": 15,
   "nutrients": {
@@ -1639,14 +1984,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "dates",
   "names": {
    "en": "Dates",
-   "it": "Datteri"
+   "it": "Datteri",
+   "es": "Dátiles",
+   "fr": "Dattes",
+   "pt": "Tâmaras"
   },
   "serving": 24,
   "nutrients": {
@@ -1665,14 +2016,20 @@
   },
   "servingLabel": {
    "en": "3 dates",
-   "it": "3 datteri"
+   "it": "3 datteri",
+   "es": "3 dátiles",
+   "fr": "3 dattes",
+   "pt": "3 tâmaras"
   }
  },
  {
   "id": "raisins",
   "names": {
    "en": "Raisins",
-   "it": "Uvetta"
+   "it": "Uvetta",
+   "es": "Pasas",
+   "fr": "Raisins secs",
+   "pt": "Uva-passa"
   },
   "serving": 30,
   "nutrients": {
@@ -1690,14 +2047,20 @@
   },
   "servingLabel": {
    "en": "1 handful",
-   "it": "1 manciata"
+   "it": "1 manciata",
+   "es": "1 puñado",
+   "fr": "1 poignée",
+   "pt": "1 punhado"
   }
  },
  {
   "id": "almonds",
   "names": {
    "en": "Almonds",
-   "it": "Mandorle"
+   "it": "Mandorle",
+   "es": "Almendras",
+   "fr": "Amandes",
+   "pt": "Amêndoas"
   },
   "serving": 30,
   "nutrients": {
@@ -1719,14 +2082,20 @@
   },
   "servingLabel": {
    "en": "1 handful",
-   "it": "1 manciata"
+   "it": "1 manciata",
+   "es": "1 puñado",
+   "fr": "1 poignée",
+   "pt": "1 punhado"
   }
  },
  {
   "id": "walnuts",
   "names": {
    "en": "Walnuts",
-   "it": "Noci"
+   "it": "Noci",
+   "es": "Nueces",
+   "fr": "Noix",
+   "pt": "Nozes"
   },
   "serving": 30,
   "nutrients": {
@@ -1747,14 +2116,20 @@
   },
   "servingLabel": {
    "en": "1 handful",
-   "it": "1 manciata"
+   "it": "1 manciata",
+   "es": "1 puñado",
+   "fr": "1 poignée",
+   "pt": "1 punhado"
   }
  },
  {
   "id": "hazelnuts",
   "names": {
    "en": "Hazelnuts",
-   "it": "Nocciole"
+   "it": "Nocciole",
+   "es": "Avellanas",
+   "fr": "Noisettes",
+   "pt": "Avelãs"
   },
   "serving": 30,
   "nutrients": {
@@ -1775,14 +2150,20 @@
   },
   "servingLabel": {
    "en": "1 handful",
-   "it": "1 manciata"
+   "it": "1 manciata",
+   "es": "1 puñado",
+   "fr": "1 poignée",
+   "pt": "1 punhado"
   }
  },
  {
   "id": "pistachios",
   "names": {
    "en": "Pistachios",
-   "it": "Pistacchi"
+   "it": "Pistacchi",
+   "es": "Pistachos",
+   "fr": "Pistaches",
+   "pt": "Pistaches"
   },
   "serving": 30,
   "nutrients": {
@@ -1802,14 +2183,20 @@
   },
   "servingLabel": {
    "en": "1 handful",
-   "it": "1 manciata"
+   "it": "1 manciata",
+   "es": "1 puñado",
+   "fr": "1 poignée",
+   "pt": "1 punhado"
   }
  },
  {
   "id": "peanut_butter",
   "names": {
    "en": "Peanut butter",
-   "it": "Burro di arachidi"
+   "it": "Burro di arachidi",
+   "es": "Crema de cacahuete",
+   "fr": "Beurre de cacahuète",
+   "pt": "Pasta de amendoim"
   },
   "serving": 20,
   "nutrients": {
@@ -1830,14 +2217,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "chia_seeds",
   "names": {
    "en": "Chia seeds",
-   "it": "Semi di chia"
+   "it": "Semi di chia",
+   "es": "Semillas de chía",
+   "fr": "Graines de chia",
+   "pt": "Sementes de chia"
   },
   "serving": 15,
   "nutrients": {
@@ -1857,14 +2250,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "flax_seeds",
   "names": {
    "en": "Flax seeds",
-   "it": "Semi di lino"
+   "it": "Semi di lino",
+   "es": "Semillas de lino",
+   "fr": "Graines de lin",
+   "pt": "Sementes de linhaça"
   },
   "serving": 10,
   "nutrients": {
@@ -1883,14 +2282,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "milk_whole",
   "names": {
    "en": "Whole milk",
-   "it": "Latte intero"
+   "it": "Latte intero",
+   "es": "Leche entera",
+   "fr": "Lait entier",
+   "pt": "Leite integral"
   },
   "serving": 200,
   "nutrients": {
@@ -1913,14 +2318,20 @@
   },
   "servingLabel": {
    "en": "1 glass",
-   "it": "1 bicchiere"
+   "it": "1 bicchiere",
+   "es": "1 vaso",
+   "fr": "1 verre",
+   "pt": "1 copo"
   }
  },
  {
   "id": "milk_skim",
   "names": {
    "en": "Skimmed milk",
-   "it": "Latte scremato"
+   "it": "Latte scremato",
+   "es": "Leche desnatada",
+   "fr": "Lait écrémé",
+   "pt": "Leite desnatado"
   },
   "serving": 200,
   "nutrients": {
@@ -1941,14 +2352,20 @@
   },
   "servingLabel": {
    "en": "1 glass",
-   "it": "1 bicchiere"
+   "it": "1 bicchiere",
+   "es": "1 vaso",
+   "fr": "1 verre",
+   "pt": "1 copo"
   }
  },
  {
   "id": "milk_oat",
   "names": {
    "en": "Oat drink",
-   "it": "Bevanda d'avena"
+   "it": "Bevanda d'avena",
+   "es": "Bebida de avena",
+   "fr": "Boisson à l'avoine",
+   "pt": "Bebida de aveia"
   },
   "serving": 200,
   "nutrients": {
@@ -1968,14 +2385,20 @@
   },
   "servingLabel": {
    "en": "1 glass",
-   "it": "1 bicchiere"
+   "it": "1 bicchiere",
+   "es": "1 vaso",
+   "fr": "1 verre",
+   "pt": "1 copo"
   }
  },
  {
   "id": "yogurt_plain",
   "names": {
    "en": "Plain yogurt",
-   "it": "Yogurt bianco intero"
+   "it": "Yogurt bianco intero",
+   "es": "Yogur natural",
+   "fr": "Yaourt nature",
+   "pt": "Iogurte natural"
   },
   "serving": 125,
   "nutrients": {
@@ -1996,14 +2419,20 @@
   },
   "servingLabel": {
    "en": "1 pot",
-   "it": "1 vasetto"
+   "it": "1 vasetto",
+   "es": "1 envase",
+   "fr": "1 pot",
+   "pt": "1 pote"
   }
  },
  {
   "id": "yogurt_greek",
   "names": {
    "en": "Greek yogurt, 0%",
-   "it": "Yogurt greco 0%"
+   "it": "Yogurt greco 0%",
+   "es": "Yogur griego 0%",
+   "fr": "Yaourt grec 0 %",
+   "pt": "Iogurte grego 0%"
   },
   "serving": 170,
   "nutrients": {
@@ -2023,14 +2452,20 @@
   },
   "servingLabel": {
    "en": "1 pot",
-   "it": "1 vasetto"
+   "it": "1 vasetto",
+   "es": "1 envase",
+   "fr": "1 pot",
+   "pt": "1 pote"
   }
  },
  {
   "id": "cheese_parmesan",
   "names": {
    "en": "Parmigiano Reggiano",
-   "it": "Parmigiano Reggiano"
+   "it": "Parmigiano Reggiano",
+   "es": "Parmigiano Reggiano",
+   "fr": "Parmigiano Reggiano",
+   "pt": "Parmigiano Reggiano"
   },
   "serving": 10,
   "nutrients": {
@@ -2052,14 +2487,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp grated",
-   "it": "1 cucchiaio grattugiato"
+   "it": "1 cucchiaio grattugiato",
+   "es": "1 cucharada rallado",
+   "fr": "1 c. à soupe râpé",
+   "pt": "1 colher de sopa ralado"
   }
  },
  {
   "id": "cheese_mozzarella",
   "names": {
    "en": "Mozzarella",
-   "it": "Mozzarella"
+   "it": "Mozzarella",
+   "es": "Mozzarella",
+   "fr": "Mozzarella",
+   "pt": "Muçarela"
   },
   "serving": 125,
   "nutrients": {
@@ -2080,14 +2521,20 @@
   },
   "servingLabel": {
    "en": "1 ball",
-   "it": "1 mozzarella"
+   "it": "1 mozzarella",
+   "es": "1 bola",
+   "fr": "1 boule",
+   "pt": "1 bola"
   }
  },
  {
   "id": "cheese_ricotta",
   "names": {
    "en": "Ricotta",
-   "it": "Ricotta"
+   "it": "Ricotta",
+   "es": "Ricotta",
+   "fr": "Ricotta",
+   "pt": "Ricota"
   },
   "serving": 100,
   "nutrients": {
@@ -2110,7 +2557,10 @@
   "id": "cheese_cottage",
   "names": {
    "en": "Cottage cheese",
-   "it": "Fiocchi di latte"
+   "it": "Fiocchi di latte",
+   "es": "Queso cottage",
+   "fr": "Cottage cheese",
+   "pt": "Queijo cottage"
   },
   "serving": 100,
   "nutrients": {
@@ -2133,7 +2583,10 @@
   "id": "cheese_feta",
   "names": {
    "en": "Feta",
-   "it": "Feta"
+   "it": "Feta",
+   "es": "Feta",
+   "fr": "Feta",
+   "pt": "Feta"
   },
   "serving": 50,
   "nutrients": {
@@ -2152,14 +2605,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "cheese_stracchino",
   "names": {
    "en": "Stracchino",
-   "it": "Stracchino"
+   "it": "Stracchino",
+   "es": "Stracchino",
+   "fr": "Stracchino",
+   "pt": "Stracchino"
   },
   "serving": 50,
   "nutrients": {
@@ -2178,14 +2637,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "butter",
   "names": {
    "en": "Butter",
-   "it": "Burro"
+   "it": "Burro",
+   "es": "Mantequilla",
+   "fr": "Beurre",
+   "pt": "Manteiga"
   },
   "serving": 10,
   "nutrients": {
@@ -2206,14 +2671,20 @@
   },
   "servingLabel": {
    "en": "1 tsp",
-   "it": "1 cucchiaino"
+   "it": "1 cucchiaino",
+   "es": "1 cucharadita",
+   "fr": "1 c. à café",
+   "pt": "1 colher de chá"
   }
  },
  {
   "id": "egg",
   "names": {
    "en": "Egg",
-   "it": "Uovo"
+   "it": "Uovo",
+   "es": "Huevo",
+   "fr": "Œuf",
+   "pt": "Ovo"
   },
   "serving": 60,
   "nutrients": {
@@ -2239,14 +2710,20 @@
   },
   "servingLabel": {
    "en": "1 egg",
-   "it": "1 uovo"
+   "it": "1 uovo",
+   "es": "1 huevo",
+   "fr": "1 œuf",
+   "pt": "1 ovo"
   }
  },
  {
   "id": "egg_white",
   "names": {
    "en": "Egg white",
-   "it": "Albume"
+   "it": "Albume",
+   "es": "Clara de huevo",
+   "fr": "Blanc d'œuf",
+   "pt": "Clara de ovo"
   },
   "serving": 33,
   "nutrients": {
@@ -2266,14 +2743,20 @@
   },
   "servingLabel": {
    "en": "1 egg white",
-   "it": "1 albume"
+   "it": "1 albume",
+   "es": "1 clara",
+   "fr": "1 blanc d'œuf",
+   "pt": "1 clara"
   }
  },
  {
   "id": "chicken_breast",
   "names": {
    "en": "Chicken breast, raw",
-   "it": "Petto di pollo crudo"
+   "it": "Petto di pollo crudo",
+   "es": "Pechuga de pollo cruda",
+   "fr": "Blanc de poulet cru",
+   "pt": "Peito de frango cru"
   },
   "serving": 150,
   "nutrients": {
@@ -2296,14 +2779,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "chicken_thigh",
   "names": {
    "en": "Chicken thigh, raw",
-   "it": "Coscia di pollo cruda"
+   "it": "Coscia di pollo cruda",
+   "es": "Muslo de pollo crudo",
+   "fr": "Cuisse de poulet crue",
+   "pt": "Coxa de frango crua"
   },
   "serving": 150,
   "nutrients": {
@@ -2324,14 +2813,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "turkey_breast",
   "names": {
    "en": "Turkey breast, raw",
-   "it": "Fesa di tacchino cruda"
+   "it": "Fesa di tacchino cruda",
+   "es": "Pechuga de pavo cruda",
+   "fr": "Blanc de dinde cru",
+   "pt": "Peito de peru cru"
   },
   "serving": 150,
   "nutrients": {
@@ -2352,14 +2847,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "beef_lean",
   "names": {
    "en": "Beef, lean, raw",
-   "it": "Manzo magro crudo"
+   "it": "Manzo magro crudo",
+   "es": "Ternera magra cruda",
+   "fr": "Bœuf maigre cru",
+   "pt": "Carne bovina magra crua"
   },
   "serving": 150,
   "nutrients": {
@@ -2382,14 +2883,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "beef_ground",
   "names": {
    "en": "Ground beef, 15% fat, raw",
-   "it": "Carne macinata di manzo 15%"
+   "it": "Carne macinata di manzo 15%",
+   "es": "Carne picada de ternera 15% grasa",
+   "fr": "Bœuf haché 15 % MG",
+   "pt": "Carne moída bovina 15% gordura"
   },
   "serving": 120,
   "nutrients": {
@@ -2409,14 +2916,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "pork_loin",
   "names": {
    "en": "Pork loin, raw",
-   "it": "Lonza di maiale cruda"
+   "it": "Lonza di maiale cruda",
+   "es": "Lomo de cerdo crudo",
+   "fr": "Filet de porc cru",
+   "pt": "Lombo de porco cru"
   },
   "serving": 150,
   "nutrients": {
@@ -2438,14 +2951,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "prosciutto_crudo",
   "names": {
    "en": "Prosciutto crudo",
-   "it": "Prosciutto crudo"
+   "it": "Prosciutto crudo",
+   "es": "Jamón curado",
+   "fr": "Jambon cru",
+   "pt": "Presunto cru"
   },
   "serving": 50,
   "nutrients": {
@@ -2466,14 +2985,20 @@
   },
   "servingLabel": {
    "en": "3 slices",
-   "it": "3 fette"
+   "it": "3 fette",
+   "es": "3 lonchas",
+   "fr": "3 tranches",
+   "pt": "3 fatias"
   }
  },
  {
   "id": "prosciutto_cotto",
   "names": {
    "en": "Cooked ham",
-   "it": "Prosciutto cotto"
+   "it": "Prosciutto cotto",
+   "es": "Jamón cocido",
+   "fr": "Jambon cuit",
+   "pt": "Presunto cozido"
   },
   "serving": 50,
   "nutrients": {
@@ -2493,14 +3018,20 @@
   },
   "servingLabel": {
    "en": "3 slices",
-   "it": "3 fette"
+   "it": "3 fette",
+   "es": "3 lonchas",
+   "fr": "3 tranches",
+   "pt": "3 fatias"
   }
  },
  {
   "id": "bresaola",
   "names": {
    "en": "Bresaola",
-   "it": "Bresaola"
+   "it": "Bresaola",
+   "es": "Bresaola",
+   "fr": "Bresaola",
+   "pt": "Bresaola"
   },
   "serving": 50,
   "nutrients": {
@@ -2520,14 +3051,20 @@
   },
   "servingLabel": {
    "en": "5 slices",
-   "it": "5 fette"
+   "it": "5 fette",
+   "es": "5 lonchas",
+   "fr": "5 tranches",
+   "pt": "5 fatias"
   }
  },
  {
   "id": "salami",
   "names": {
    "en": "Salami",
-   "it": "Salame"
+   "it": "Salame",
+   "es": "Salami",
+   "fr": "Salami",
+   "pt": "Salame"
   },
   "serving": 30,
   "nutrients": {
@@ -2546,14 +3083,20 @@
   },
   "servingLabel": {
    "en": "3 slices",
-   "it": "3 fette"
+   "it": "3 fette",
+   "es": "3 lonchas",
+   "fr": "3 tranches",
+   "pt": "3 fatias"
   }
  },
  {
   "id": "salmon",
   "names": {
    "en": "Salmon, raw",
-   "it": "Salmone crudo"
+   "it": "Salmone crudo",
+   "es": "Salmón crudo",
+   "fr": "Saumon cru",
+   "pt": "Salmão cru"
   },
   "serving": 150,
   "nutrients": {
@@ -2576,14 +3119,20 @@
   },
   "servingLabel": {
    "en": "1 fillet",
-   "it": "1 filetto"
+   "it": "1 filetto",
+   "es": "1 filete",
+   "fr": "1 filet",
+   "pt": "1 filé"
   }
  },
  {
   "id": "salmon_smoked",
   "names": {
    "en": "Smoked salmon",
-   "it": "Salmone affumicato"
+   "it": "Salmone affumicato",
+   "es": "Salmón ahumado",
+   "fr": "Saumon fumé",
+   "pt": "Salmão defumado"
   },
   "serving": 50,
   "nutrients": {
@@ -2603,14 +3152,20 @@
   },
   "servingLabel": {
    "en": "2 slices",
-   "it": "2 fette"
+   "it": "2 fette",
+   "es": "2 lonchas",
+   "fr": "2 tranches",
+   "pt": "2 fatias"
   }
  },
  {
   "id": "tuna_canned",
   "names": {
    "en": "Tuna, canned in olive oil, drained",
-   "it": "Tonno sott'olio sgocciolato"
+   "it": "Tonno sott'olio sgocciolato",
+   "es": "Atún en aceite de oliva escurrido",
+   "fr": "Thon à l'huile d'olive égoutté",
+   "pt": "Atum em azeite escorrido"
   },
   "serving": 80,
   "nutrients": {
@@ -2632,14 +3187,20 @@
   },
   "servingLabel": {
    "en": "1 can",
-   "it": "1 scatoletta"
+   "it": "1 scatoletta",
+   "es": "1 lata",
+   "fr": "1 boîte",
+   "pt": "1 lata"
   }
  },
  {
   "id": "tuna_natural",
   "names": {
    "en": "Tuna, canned in water, drained",
-   "it": "Tonno al naturale sgocciolato"
+   "it": "Tonno al naturale sgocciolato",
+   "es": "Atún al natural escurrido",
+   "fr": "Thon au naturel égoutté",
+   "pt": "Atum ao natural escorrido"
   },
   "serving": 80,
   "nutrients": {
@@ -2660,14 +3221,20 @@
   },
   "servingLabel": {
    "en": "1 can",
-   "it": "1 scatoletta"
+   "it": "1 scatoletta",
+   "es": "1 lata",
+   "fr": "1 boîte",
+   "pt": "1 lata"
   }
  },
  {
   "id": "cod",
   "names": {
    "en": "Cod, raw",
-   "it": "Merluzzo crudo"
+   "it": "Merluzzo crudo",
+   "es": "Bacalao fresco crudo",
+   "fr": "Cabillaud cru",
+   "pt": "Bacalhau fresco cru"
   },
   "serving": 150,
   "nutrients": {
@@ -2688,14 +3255,20 @@
   },
   "servingLabel": {
    "en": "1 fillet",
-   "it": "1 filetto"
+   "it": "1 filetto",
+   "es": "1 filete",
+   "fr": "1 filet",
+   "pt": "1 filé"
   }
  },
  {
   "id": "sea_bass",
   "names": {
    "en": "Sea bass, raw",
-   "it": "Branzino crudo"
+   "it": "Branzino crudo",
+   "es": "Lubina cruda",
+   "fr": "Bar cru",
+   "pt": "Robalo cru"
   },
   "serving": 150,
   "nutrients": {
@@ -2716,14 +3289,20 @@
   },
   "servingLabel": {
    "en": "1 fillet",
-   "it": "1 filetto"
+   "it": "1 filetto",
+   "es": "1 filete",
+   "fr": "1 filet",
+   "pt": "1 filé"
   }
  },
  {
   "id": "shrimp",
   "names": {
    "en": "Shrimp, raw",
-   "it": "Gamberi crudi"
+   "it": "Gamberi crudi",
+   "es": "Gambas crudas",
+   "fr": "Crevettes crues",
+   "pt": "Camarão cru"
   },
   "serving": 100,
   "nutrients": {
@@ -2747,7 +3326,10 @@
   "id": "sardines",
   "names": {
    "en": "Sardines, canned in oil",
-   "it": "Sardine sott'olio"
+   "it": "Sardine sott'olio",
+   "es": "Sardinas en aceite",
+   "fr": "Sardines à l'huile",
+   "pt": "Sardinha em óleo"
   },
   "serving": 80,
   "nutrients": {
@@ -2768,14 +3350,20 @@
   },
   "servingLabel": {
    "en": "1 can",
-   "it": "1 scatoletta"
+   "it": "1 scatoletta",
+   "es": "1 lata",
+   "fr": "1 boîte",
+   "pt": "1 lata"
   }
  },
  {
   "id": "mackerel",
   "names": {
    "en": "Mackerel, raw",
-   "it": "Sgombro crudo"
+   "it": "Sgombro crudo",
+   "es": "Caballa cruda",
+   "fr": "Maquereau cru",
+   "pt": "Cavala crua"
   },
   "serving": 150,
   "nutrients": {
@@ -2796,14 +3384,20 @@
   },
   "servingLabel": {
    "en": "1 fillet",
-   "it": "1 filetto"
+   "it": "1 filetto",
+   "es": "1 filete",
+   "fr": "1 filet",
+   "pt": "1 filé"
   }
  },
  {
   "id": "olive_oil",
   "names": {
    "en": "Extra virgin olive oil",
-   "it": "Olio extravergine d'oliva"
+   "it": "Olio extravergine d'oliva",
+   "es": "Aceite de oliva virgen extra",
+   "fr": "Huile d'olive vierge extra",
+   "pt": "Azeite de oliva extravirgem"
   },
   "serving": 10,
   "nutrients": {
@@ -2824,14 +3418,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "mayonnaise",
   "names": {
    "en": "Mayonnaise",
-   "it": "Maionese"
+   "it": "Maionese",
+   "es": "Mayonesa",
+   "fr": "Mayonnaise",
+   "pt": "Maionese"
   },
   "serving": 15,
   "nutrients": {
@@ -2850,14 +3450,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "ketchup",
   "names": {
    "en": "Ketchup",
-   "it": "Ketchup"
+   "it": "Ketchup",
+   "es": "Kétchup",
+   "fr": "Ketchup",
+   "pt": "Ketchup"
   },
   "serving": 15,
   "nutrients": {
@@ -2876,14 +3482,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "pesto",
   "names": {
    "en": "Pesto",
-   "it": "Pesto alla genovese"
+   "it": "Pesto alla genovese",
+   "es": "Pesto genovés",
+   "fr": "Pesto",
+   "pt": "Pesto"
   },
   "serving": 30,
   "nutrients": {
@@ -2903,14 +3515,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "honey",
   "names": {
    "en": "Honey",
-   "it": "Miele"
+   "it": "Miele",
+   "es": "Miel",
+   "fr": "Miel",
+   "pt": "Mel"
   },
   "serving": 10,
   "nutrients": {
@@ -2928,14 +3546,20 @@
   },
   "servingLabel": {
    "en": "1 tsp",
-   "it": "1 cucchiaino"
+   "it": "1 cucchiaino",
+   "es": "1 cucharadita",
+   "fr": "1 c. à café",
+   "pt": "1 colher de chá"
   }
  },
  {
   "id": "jam",
   "names": {
    "en": "Jam",
-   "it": "Marmellata"
+   "it": "Marmellata",
+   "es": "Mermelada",
+   "fr": "Confiture",
+   "pt": "Geleia"
   },
   "serving": 20,
   "nutrients": {
@@ -2954,14 +3578,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "sugar",
   "names": {
    "en": "Sugar",
-   "it": "Zucchero"
+   "it": "Zucchero",
+   "es": "Azúcar",
+   "fr": "Sucre",
+   "pt": "Açúcar"
   },
   "serving": 5,
   "nutrients": {
@@ -2979,14 +3609,20 @@
   },
   "servingLabel": {
    "en": "1 tsp",
-   "it": "1 cucchiaino"
+   "it": "1 cucchiaino",
+   "es": "1 cucharadita",
+   "fr": "1 c. à café",
+   "pt": "1 colher de chá"
   }
  },
  {
   "id": "dark_chocolate",
   "names": {
    "en": "Dark chocolate 70%",
-   "it": "Cioccolato fondente 70%"
+   "it": "Cioccolato fondente 70%",
+   "es": "Chocolate negro 70%",
+   "fr": "Chocolat noir 70 %",
+   "pt": "Chocolate amargo 70%"
   },
   "serving": 20,
   "nutrients": {
@@ -3008,14 +3644,20 @@
   },
   "servingLabel": {
    "en": "2 squares",
-   "it": "2 quadretti"
+   "it": "2 quadretti",
+   "es": "2 onzas",
+   "fr": "2 carrés",
+   "pt": "2 quadradinhos"
   }
  },
  {
   "id": "nutella",
   "names": {
    "en": "Hazelnut spread",
-   "it": "Crema alle nocciole"
+   "it": "Crema alle nocciole",
+   "es": "Crema de avellanas",
+   "fr": "Pâte à tartiner aux noisettes",
+   "pt": "Creme de avelã"
   },
   "serving": 15,
   "nutrients": {
@@ -3033,14 +3675,20 @@
   },
   "servingLabel": {
    "en": "1 tbsp",
-   "it": "1 cucchiaio"
+   "it": "1 cucchiaio",
+   "es": "1 cucharada",
+   "fr": "1 c. à soupe",
+   "pt": "1 colher de sopa"
   }
  },
  {
   "id": "biscuits",
   "names": {
    "en": "Biscuits",
-   "it": "Biscotti frollini"
+   "it": "Biscotti frollini",
+   "es": "Galletas",
+   "fr": "Biscuits",
+   "pt": "Biscoitos"
   },
   "serving": 30,
   "nutrients": {
@@ -3058,14 +3706,20 @@
   },
   "servingLabel": {
    "en": "4 biscuits",
-   "it": "4 biscotti"
+   "it": "4 biscotti",
+   "es": "4 galletas",
+   "fr": "4 biscuits",
+   "pt": "4 biscoitos"
   }
  },
  {
   "id": "croissant",
   "names": {
    "en": "Croissant",
-   "it": "Cornetto"
+   "it": "Cornetto",
+   "es": "Cruasán",
+   "fr": "Croissant",
+   "pt": "Croissant"
   },
   "serving": 50,
   "nutrients": {
@@ -3084,14 +3738,20 @@
   },
   "servingLabel": {
    "en": "1 croissant",
-   "it": "1 cornetto"
+   "it": "1 cornetto",
+   "es": "1 cruasán",
+   "fr": "1 croissant",
+   "pt": "1 croissant"
   }
  },
  {
   "id": "ice_cream",
   "names": {
    "en": "Ice cream",
-   "it": "Gelato"
+   "it": "Gelato",
+   "es": "Helado",
+   "fr": "Glace",
+   "pt": "Sorvete"
   },
   "serving": 80,
   "nutrients": {
@@ -3111,14 +3771,20 @@
   },
   "servingLabel": {
    "en": "1 scoop",
-   "it": "1 pallina"
+   "it": "1 pallina",
+   "es": "1 bola",
+   "fr": "1 boule",
+   "pt": "1 bola"
   }
  },
  {
   "id": "protein_powder",
   "names": {
    "en": "Whey protein powder",
-   "it": "Proteine whey in polvere"
+   "it": "Proteine whey in polvere",
+   "es": "Proteína whey en polvo",
+   "fr": "Protéine whey en poudre",
+   "pt": "Whey protein em pó"
   },
   "serving": 30,
   "nutrients": {
@@ -3136,14 +3802,20 @@
   },
   "servingLabel": {
    "en": "1 scoop",
-   "it": "1 misurino"
+   "it": "1 misurino",
+   "es": "1 cacito",
+   "fr": "1 dose",
+   "pt": "1 medida"
   }
  },
  {
   "id": "protein_bar",
   "names": {
    "en": "Protein bar",
-   "it": "Barretta proteica"
+   "it": "Barretta proteica",
+   "es": "Barrita proteica",
+   "fr": "Barre protéinée",
+   "pt": "Barra de proteína"
   },
   "serving": 50,
   "nutrients": {
@@ -3161,14 +3833,20 @@
   },
   "servingLabel": {
    "en": "1 bar",
-   "it": "1 barretta"
+   "it": "1 barretta",
+   "es": "1 barrita",
+   "fr": "1 barre",
+   "pt": "1 barra"
   }
  },
  {
   "id": "coffee_espresso",
   "names": {
    "en": "Espresso",
-   "it": "Caffè espresso"
+   "it": "Caffè espresso",
+   "es": "Café espresso",
+   "fr": "Café expresso",
+   "pt": "Café expresso"
   },
   "serving": 30,
   "nutrients": {
@@ -3187,14 +3865,20 @@
   },
   "servingLabel": {
    "en": "1 cup",
-   "it": "1 tazzina"
+   "it": "1 tazzina",
+   "es": "1 taza",
+   "fr": "1 tasse",
+   "pt": "1 xícara"
   }
  },
  {
   "id": "cappuccino",
   "names": {
    "en": "Cappuccino",
-   "it": "Cappuccino"
+   "it": "Cappuccino",
+   "es": "Capuchino",
+   "fr": "Cappuccino",
+   "pt": "Cappuccino"
   },
   "serving": 150,
   "nutrients": {
@@ -3213,14 +3897,20 @@
   },
   "servingLabel": {
    "en": "1 cup",
-   "it": "1 tazza"
+   "it": "1 tazza",
+   "es": "1 taza",
+   "fr": "1 tasse",
+   "pt": "1 xícara"
   }
  },
  {
   "id": "orange_juice",
   "names": {
    "en": "Orange juice",
-   "it": "Succo d'arancia"
+   "it": "Succo d'arancia",
+   "es": "Zumo de naranja",
+   "fr": "Jus d'orange",
+   "pt": "Suco de laranja"
   },
   "serving": 200,
   "nutrients": {
@@ -3240,14 +3930,20 @@
   },
   "servingLabel": {
    "en": "1 glass",
-   "it": "1 bicchiere"
+   "it": "1 bicchiere",
+   "es": "1 vaso",
+   "fr": "1 verre",
+   "pt": "1 copo"
   }
  },
  {
   "id": "cola",
   "names": {
    "en": "Cola",
-   "it": "Cola"
+   "it": "Cola",
+   "es": "Cola",
+   "fr": "Cola",
+   "pt": "Refrigerante de cola"
   },
   "serving": 330,
   "nutrients": {
@@ -3265,14 +3961,20 @@
   },
   "servingLabel": {
    "en": "1 can",
-   "it": "1 lattina"
+   "it": "1 lattina",
+   "es": "1 lata",
+   "fr": "1 canette",
+   "pt": "1 lata"
   }
  },
  {
   "id": "beer",
   "names": {
    "en": "Beer",
-   "it": "Birra"
+   "it": "Birra",
+   "es": "Cerveza",
+   "fr": "Bière",
+   "pt": "Cerveja"
   },
   "serving": 330,
   "nutrients": {
@@ -3292,14 +3994,20 @@
   },
   "servingLabel": {
    "en": "1 bottle",
-   "it": "1 bottiglia"
+   "it": "1 bottiglia",
+   "es": "1 botella",
+   "fr": "1 bouteille",
+   "pt": "1 garrafa"
   }
  },
  {
   "id": "wine_red",
   "names": {
    "en": "Red wine",
-   "it": "Vino rosso"
+   "it": "Vino rosso",
+   "es": "Vino tinto",
+   "fr": "Vin rouge",
+   "pt": "Vinho tinto"
   },
   "serving": 125,
   "nutrients": {
@@ -3318,14 +4026,20 @@
   },
   "servingLabel": {
    "en": "1 glass",
-   "it": "1 bicchiere"
+   "it": "1 bicchiere",
+   "es": "1 copa",
+   "fr": "1 verre",
+   "pt": "1 taça"
   }
  },
  {
   "id": "wine_white",
   "names": {
    "en": "White wine",
-   "it": "Vino bianco"
+   "it": "Vino bianco",
+   "es": "Vino blanco",
+   "fr": "Vin blanc",
+   "pt": "Vinho branco"
   },
   "serving": 125,
   "nutrients": {
@@ -3343,14 +4057,20 @@
   },
   "servingLabel": {
    "en": "1 glass",
-   "it": "1 bicchiere"
+   "it": "1 bicchiere",
+   "es": "1 copa",
+   "fr": "1 verre",
+   "pt": "1 taça"
   }
  },
  {
   "id": "pasta_pomodoro",
   "names": {
    "en": "Pasta with tomato sauce",
-   "it": "Pasta al pomodoro"
+   "it": "Pasta al pomodoro",
+   "es": "Pasta con tomate",
+   "fr": "Pâtes à la sauce tomate",
+   "pt": "Macarrão ao molho de tomate"
   },
   "serving": 250,
   "nutrients": {
@@ -3370,14 +4090,20 @@
   },
   "servingLabel": {
    "en": "1 plate",
-   "it": "1 piatto"
+   "it": "1 piatto",
+   "es": "1 plato",
+   "fr": "1 assiette",
+   "pt": "1 prato"
   }
  },
  {
   "id": "risotto",
   "names": {
    "en": "Risotto with parmesan",
-   "it": "Risotto alla parmigiana"
+   "it": "Risotto alla parmigiana",
+   "es": "Risotto con parmesano",
+   "fr": "Risotto au parmesan",
+   "pt": "Risoto de parmesão"
   },
   "serving": 250,
   "nutrients": {
@@ -3396,14 +4122,20 @@
   },
   "servingLabel": {
    "en": "1 plate",
-   "it": "1 piatto"
+   "it": "1 piatto",
+   "es": "1 plato",
+   "fr": "1 assiette",
+   "pt": "1 prato"
   }
  },
  {
   "id": "lasagna",
   "names": {
    "en": "Lasagna bolognese",
-   "it": "Lasagne alla bolognese"
+   "it": "Lasagne alla bolognese",
+   "es": "Lasaña boloñesa",
+   "fr": "Lasagnes à la bolognaise",
+   "pt": "Lasanha à bolonhesa"
   },
   "serving": 250,
   "nutrients": {
@@ -3423,14 +4155,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "minestrone",
   "names": {
    "en": "Minestrone",
-   "it": "Minestrone"
+   "it": "Minestrone",
+   "es": "Minestrone",
+   "fr": "Minestrone",
+   "pt": "Minestrone"
   },
   "serving": 300,
   "nutrients": {
@@ -3450,14 +4188,20 @@
   },
   "servingLabel": {
    "en": "1 bowl",
-   "it": "1 ciotola"
+   "it": "1 ciotola",
+   "es": "1 bol",
+   "fr": "1 bol",
+   "pt": "1 tigela"
   }
  },
  {
   "id": "caprese",
   "names": {
    "en": "Caprese salad",
-   "it": "Insalata caprese"
+   "it": "Insalata caprese",
+   "es": "Ensalada caprese",
+   "fr": "Salade caprese",
+   "pt": "Salada caprese"
   },
   "serving": 200,
   "nutrients": {
@@ -3477,14 +4221,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "omelette",
   "names": {
    "en": "Omelette, 2 eggs",
-   "it": "Frittata di 2 uova"
+   "it": "Frittata di 2 uova",
+   "es": "Tortilla de 2 huevos",
+   "fr": "Omelette de 2 œufs",
+   "pt": "Omelete de 2 ovos"
   },
   "serving": 130,
   "nutrients": {
@@ -3505,14 +4255,20 @@
   },
   "servingLabel": {
    "en": "1 omelette",
-   "it": "1 frittata"
+   "it": "1 frittata",
+   "es": "1 tortilla",
+   "fr": "1 omelette",
+   "pt": "1 omelete"
   }
  },
  {
   "id": "sandwich_ham_cheese",
   "names": {
    "en": "Ham and cheese sandwich",
-   "it": "Panino prosciutto e formaggio"
+   "it": "Panino prosciutto e formaggio",
+   "es": "Bocadillo de jamón y queso",
+   "fr": "Sandwich jambon-fromage",
+   "pt": "Sanduíche de presunto e queijo"
   },
   "serving": 150,
   "nutrients": {
@@ -3531,14 +4287,20 @@
   },
   "servingLabel": {
    "en": "1 sandwich",
-   "it": "1 panino"
+   "it": "1 panino",
+   "es": "1 bocadillo",
+   "fr": "1 sandwich",
+   "pt": "1 sanduíche"
   }
  },
  {
   "id": "chicken_grilled",
   "names": {
    "en": "Grilled chicken breast",
-   "it": "Petto di pollo alla griglia"
+   "it": "Petto di pollo alla griglia",
+   "es": "Pechuga de pollo a la plancha",
+   "fr": "Blanc de poulet grillé",
+   "pt": "Peito de frango grelhado"
   },
   "serving": 120,
   "nutrients": {
@@ -3560,14 +4322,20 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  },
  {
   "id": "salad_mixed",
   "names": {
    "en": "Mixed salad with oil",
-   "it": "Insalata mista condita"
+   "it": "Insalata mista condita",
+   "es": "Ensalada mixta aliñada",
+   "fr": "Salade composée assaisonnée",
+   "pt": "Salada mista temperada"
   },
   "serving": 150,
   "nutrients": {
@@ -3588,7 +4356,10 @@
   },
   "servingLabel": {
    "en": "1 portion",
-   "it": "1 porzione"
+   "it": "1 porzione",
+   "es": "1 porción",
+   "fr": "1 portion",
+   "pt": "1 porção"
   }
  }
 ]
