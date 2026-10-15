@@ -1,0 +1,63 @@
+name: MacroLog
+options:
+  bundleIdPrefix: com.andreaverlicchi
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "16.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    SWIFT_STRICT_CONCURRENCY: minimal
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    DEVELOPMENT_LANGUAGE: en
+targets:
+  MacroLog:
+    type: application
+    platform: iOS
+    sources:
+      - path: MacroLog
+        excludes:
+          - "**/.DS_Store"
+    info:
+      path: MacroLog/Info.plist
+      properties:
+        CFBundleDisplayName: MacroLog
+        CFBundleLocalizations: [en, it]
+        CFBundleDevelopmentRegion: en
+        UILaunchScreen: {}
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        NSCameraUsageDescription: "MacroLog uses the camera to photograph meals and estimate their nutrition."
+        NSPhotoLibraryUsageDescription: "MacroLog reads photos you pick to estimate the nutrition of a meal."
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoads: false
+        ITSAppUsesNonExemptEncryption: false
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.andreaverlicchi.macrolog
+        TARGETED_DEVICE_FAMILY: "1"
+        GENERATE_INFOPLIST_FILE: false
+        ENABLE_PREVIEWS: true
+  MacroLogTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: MacroLogTests
+    dependencies:
+      - target: MacroLog
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.andreaverlicchi.macrolog.tests
+        GENERATE_INFOPLIST_FILE: true
+schemes:
+  MacroLog:
+    build:
+      targets:
+        MacroLog: all
+        MacroLogTests: [test]
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets: [MacroLogTests]

@@ -1,0 +1,3594 @@
+[
+ {
+  "id": "pasta_dry",
+  "names": {
+   "en": "Pasta, dry",
+   "it": "Pasta secca"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 371,
+   "protein": 13,
+   "carbs": 75,
+   "fat": 1.5,
+   "fiber": 3,
+   "sugar": 2.7,
+   "saturatedFat": 0.3,
+   "sodium": 6,
+   "potassium": 223,
+   "calcium": 21,
+   "iron": 1.3,
+   "magnesium": 53,
+   "folate": 18,
+   "zinc": 1.4
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "pasta_whole",
+  "names": {
+   "en": "Whole wheat pasta, dry",
+   "it": "Pasta integrale secca"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 348,
+   "protein": 14.6,
+   "carbs": 73,
+   "fat": 2.5,
+   "fiber": 9,
+   "sugar": 3,
+   "saturatedFat": 0.5,
+   "sodium": 8,
+   "potassium": 363,
+   "calcium": 40,
+   "iron": 3.6,
+   "magnesium": 120,
+   "zinc": 2.4
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "rice_white",
+  "names": {
+   "en": "White rice, dry",
+   "it": "Riso bianco crudo"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 360,
+   "protein": 6.6,
+   "carbs": 80,
+   "fat": 0.6,
+   "fiber": 1.3,
+   "sugar": 0.1,
+   "saturatedFat": 0.2,
+   "sodium": 1,
+   "potassium": 86,
+   "calcium": 10,
+   "iron": 0.8,
+   "magnesium": 25,
+   "folate": 8
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "rice_brown",
+  "names": {
+   "en": "Brown rice, dry",
+   "it": "Riso integrale crudo"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 367,
+   "protein": 7.5,
+   "carbs": 76,
+   "fat": 2.7,
+   "fiber": 3.5,
+   "sugar": 0.7,
+   "saturatedFat": 0.5,
+   "sodium": 4,
+   "potassium": 250,
+   "calcium": 23,
+   "iron": 1.3,
+   "magnesium": 143,
+   "zinc": 2
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "rice_cooked",
+  "names": {
+   "en": "White rice, cooked",
+   "it": "Riso bianco cotto"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 130,
+   "protein": 2.7,
+   "carbs": 28,
+   "fat": 0.3,
+   "fiber": 0.4,
+   "sugar": 0,
+   "saturatedFat": 0.1,
+   "sodium": 1,
+   "potassium": 35,
+   "calcium": 10,
+   "iron": 0.2
+  },
+  "servingLabel": {
+   "en": "1 cup",
+   "it": "1 tazza"
+  }
+ },
+ {
+  "id": "bread_white",
+  "names": {
+   "en": "White bread",
+   "it": "Pane bianco"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 265,
+   "protein": 9,
+   "carbs": 49,
+   "fat": 3.2,
+   "fiber": 2.7,
+   "sugar": 5,
+   "saturatedFat": 0.7,
+   "sodium": 490,
+   "potassium": 115,
+   "calcium": 260,
+   "iron": 3.6,
+   "folate": 85
+  },
+  "servingLabel": {
+   "en": "1 slice",
+   "it": "1 fetta"
+  }
+ },
+ {
+  "id": "bread_whole",
+  "names": {
+   "en": "Whole wheat bread",
+   "it": "Pane integrale"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 247,
+   "protein": 13,
+   "carbs": 41,
+   "fat": 3.4,
+   "fiber": 7,
+   "sugar": 6,
+   "saturatedFat": 0.8,
+   "sodium": 400,
+   "potassium": 250,
+   "calcium": 160,
+   "iron": 2.5,
+   "magnesium": 75,
+   "zinc": 1.8
+  },
+  "servingLabel": {
+   "en": "1 slice",
+   "it": "1 fetta"
+  }
+ },
+ {
+  "id": "oats",
+  "names": {
+   "en": "Rolled oats",
+   "it": "Fiocchi d'avena"
+  },
+  "serving": 40,
+  "nutrients": {
+   "calories": 379,
+   "protein": 13,
+   "carbs": 68,
+   "fat": 6.5,
+   "fiber": 10,
+   "sugar": 1,
+   "saturatedFat": 1.2,
+   "sodium": 6,
+   "potassium": 362,
+   "calcium": 52,
+   "iron": 4.3,
+   "magnesium": 138,
+   "zinc": 3.6,
+   "thiamin": 0.5,
+   "phosphorus": 410
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "cornflakes",
+  "names": {
+   "en": "Corn flakes",
+   "it": "Corn flakes"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 357,
+   "protein": 7.5,
+   "carbs": 84,
+   "fat": 0.4,
+   "fiber": 3,
+   "sugar": 8,
+   "saturatedFat": 0.1,
+   "sodium": 660,
+   "potassium": 100,
+   "calcium": 10,
+   "iron": 28,
+   "vitaminB12": 1.5,
+   "folate": 200
+  },
+  "servingLabel": {
+   "en": "1 bowl",
+   "it": "1 ciotola"
+  }
+ },
+ {
+  "id": "muesli",
+  "names": {
+   "en": "Muesli",
+   "it": "Muesli"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 370,
+   "protein": 10,
+   "carbs": 65,
+   "fat": 6,
+   "fiber": 8,
+   "sugar": 20,
+   "saturatedFat": 1.2,
+   "sodium": 60,
+   "potassium": 400,
+   "calcium": 60,
+   "iron": 4,
+   "magnesium": 100
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "crackers",
+  "names": {
+   "en": "Crackers",
+   "it": "Crackers"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 430,
+   "protein": 10,
+   "carbs": 68,
+   "fat": 13,
+   "fiber": 3,
+   "sugar": 2,
+   "saturatedFat": 3,
+   "sodium": 900,
+   "potassium": 150,
+   "calcium": 30,
+   "iron": 2
+  },
+  "servingLabel": {
+   "en": "1 pack",
+   "it": "1 pacchetto"
+  }
+ },
+ {
+  "id": "rusks",
+  "names": {
+   "en": "Rusks",
+   "it": "Fette biscottate"
+  },
+  "serving": 10,
+  "nutrients": {
+   "calories": 395,
+   "protein": 11,
+   "carbs": 78,
+   "fat": 6,
+   "fiber": 3.5,
+   "sugar": 6,
+   "saturatedFat": 2,
+   "sodium": 400,
+   "potassium": 160,
+   "calcium": 30,
+   "iron": 2
+  },
+  "servingLabel": {
+   "en": "1 rusk",
+   "it": "1 fetta"
+  }
+ },
+ {
+  "id": "couscous",
+  "names": {
+   "en": "Couscous, dry",
+   "it": "Cous cous crudo"
+  },
+  "serving": 70,
+  "nutrients": {
+   "calories": 376,
+   "protein": 12.8,
+   "carbs": 77,
+   "fat": 0.6,
+   "fiber": 5,
+   "sugar": 0,
+   "saturatedFat": 0.1,
+   "sodium": 10,
+   "potassium": 166,
+   "calcium": 24,
+   "iron": 1.1
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "quinoa",
+  "names": {
+   "en": "Quinoa, dry",
+   "it": "Quinoa cruda"
+  },
+  "serving": 70,
+  "nutrients": {
+   "calories": 368,
+   "protein": 14,
+   "carbs": 64,
+   "fat": 6,
+   "fiber": 7,
+   "sugar": 0,
+   "saturatedFat": 0.7,
+   "sodium": 5,
+   "potassium": 563,
+   "calcium": 47,
+   "iron": 4.6,
+   "magnesium": 197,
+   "zinc": 3.1,
+   "folate": 184
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "flour",
+  "names": {
+   "en": "Wheat flour",
+   "it": "Farina di frumento"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 364,
+   "protein": 10,
+   "carbs": 76,
+   "fat": 1,
+   "fiber": 2.7,
+   "sugar": 0.3,
+   "saturatedFat": 0.2,
+   "sodium": 2,
+   "potassium": 107,
+   "calcium": 15,
+   "iron": 1.2
+  }
+ },
+ {
+  "id": "pizza_margherita",
+  "names": {
+   "en": "Pizza margherita",
+   "it": "Pizza margherita"
+  },
+  "serving": 300,
+  "nutrients": {
+   "calories": 271,
+   "protein": 11,
+   "carbs": 33,
+   "fat": 10,
+   "fiber": 2.5,
+   "sugar": 3.5,
+   "saturatedFat": 4.5,
+   "sodium": 600,
+   "potassium": 180,
+   "calcium": 190,
+   "iron": 1.2,
+   "vitaminA": 80
+  },
+  "servingLabel": {
+   "en": "1 pizza",
+   "it": "1 pizza"
+  }
+ },
+ {
+  "id": "potato",
+  "names": {
+   "en": "Potato, boiled",
+   "it": "Patate lesse"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 87,
+   "protein": 1.9,
+   "carbs": 20,
+   "fat": 0.1,
+   "fiber": 1.8,
+   "sugar": 0.9,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 379,
+   "calcium": 5,
+   "iron": 0.3,
+   "vitaminC": 13,
+   "vitaminB6": 0.3,
+   "magnesium": 20
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "potato_fries",
+  "names": {
+   "en": "French fries",
+   "it": "Patatine fritte"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 312,
+   "protein": 3.4,
+   "carbs": 41,
+   "fat": 15,
+   "fiber": 3.8,
+   "sugar": 0.3,
+   "saturatedFat": 2.3,
+   "sodium": 210,
+   "potassium": 579,
+   "calcium": 18,
+   "iron": 0.8,
+   "vitaminC": 10
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "sweet_potato",
+  "names": {
+   "en": "Sweet potato, baked",
+   "it": "Patata dolce al forno"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 90,
+   "protein": 2,
+   "carbs": 21,
+   "fat": 0.2,
+   "fiber": 3.3,
+   "sugar": 6.5,
+   "saturatedFat": 0,
+   "sodium": 36,
+   "potassium": 475,
+   "calcium": 38,
+   "iron": 0.7,
+   "vitaminA": 961,
+   "vitaminC": 20
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "lentils_cooked",
+  "names": {
+   "en": "Lentils, cooked",
+   "it": "Lenticchie cotte"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 116,
+   "protein": 9,
+   "carbs": 20,
+   "fat": 0.4,
+   "fiber": 7.9,
+   "sugar": 1.8,
+   "saturatedFat": 0.1,
+   "sodium": 2,
+   "potassium": 369,
+   "calcium": 19,
+   "iron": 3.3,
+   "folate": 181,
+   "magnesium": 36,
+   "zinc": 1.3
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "chickpeas_cooked",
+  "names": {
+   "en": "Chickpeas, cooked",
+   "it": "Ceci cotti"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 164,
+   "protein": 8.9,
+   "carbs": 27,
+   "fat": 2.6,
+   "fiber": 7.6,
+   "sugar": 4.8,
+   "saturatedFat": 0.3,
+   "sodium": 7,
+   "potassium": 291,
+   "calcium": 49,
+   "iron": 2.9,
+   "folate": 172,
+   "magnesium": 48,
+   "zinc": 1.5
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "beans_cannellini",
+  "names": {
+   "en": "Cannellini beans, cooked",
+   "it": "Fagioli cannellini cotti"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 139,
+   "protein": 9.7,
+   "carbs": 25,
+   "fat": 0.4,
+   "fiber": 6.3,
+   "sugar": 0.3,
+   "saturatedFat": 0.1,
+   "sodium": 6,
+   "potassium": 561,
+   "calcium": 90,
+   "iron": 3.7,
+   "folate": 81,
+   "magnesium": 63
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "beans_borlotti",
+  "names": {
+   "en": "Borlotti beans, cooked",
+   "it": "Fagioli borlotti cotti"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 143,
+   "protein": 9,
+   "carbs": 26,
+   "fat": 0.5,
+   "fiber": 8.6,
+   "sugar": 0.3,
+   "saturatedFat": 0.1,
+   "sodium": 1,
+   "potassium": 436,
+   "calcium": 46,
+   "iron": 2.1,
+   "folate": 172
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "peas",
+  "names": {
+   "en": "Green peas",
+   "it": "Piselli"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 81,
+   "protein": 5.4,
+   "carbs": 14,
+   "fat": 0.4,
+   "fiber": 5.1,
+   "sugar": 5.7,
+   "saturatedFat": 0.1,
+   "sodium": 5,
+   "potassium": 244,
+   "calcium": 25,
+   "iron": 1.5,
+   "vitaminC": 40,
+   "vitaminA": 38,
+   "folate": 65
+  }
+ },
+ {
+  "id": "tofu",
+  "names": {
+   "en": "Tofu, firm",
+   "it": "Tofu"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 144,
+   "protein": 17,
+   "carbs": 2.8,
+   "fat": 8.7,
+   "fiber": 2.3,
+   "sugar": 0.6,
+   "saturatedFat": 1.3,
+   "sodium": 14,
+   "potassium": 237,
+   "calcium": 683,
+   "iron": 2.7,
+   "magnesium": 58,
+   "zinc": 1.6
+  }
+ },
+ {
+  "id": "hummus",
+  "names": {
+   "en": "Hummus",
+   "it": "Hummus"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 166,
+   "protein": 8,
+   "carbs": 14,
+   "fat": 9.6,
+   "fiber": 6,
+   "sugar": 0.3,
+   "saturatedFat": 1.4,
+   "sodium": 379,
+   "potassium": 228,
+   "calcium": 38,
+   "iron": 2.4
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "tomato",
+  "names": {
+   "en": "Tomato",
+   "it": "Pomodoro"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 18,
+   "protein": 0.9,
+   "carbs": 3.9,
+   "fat": 0.2,
+   "fiber": 1.2,
+   "sugar": 2.6,
+   "saturatedFat": 0,
+   "sodium": 5,
+   "potassium": 237,
+   "calcium": 10,
+   "iron": 0.3,
+   "vitaminC": 14,
+   "vitaminA": 42,
+   "vitaminK": 8
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 medio"
+  }
+ },
+ {
+  "id": "tomato_sauce",
+  "names": {
+   "en": "Tomato passata",
+   "it": "Passata di pomodoro"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 36,
+   "protein": 1.6,
+   "carbs": 6.9,
+   "fat": 0.3,
+   "fiber": 1.9,
+   "sugar": 4.5,
+   "saturatedFat": 0,
+   "sodium": 30,
+   "potassium": 420,
+   "calcium": 16,
+   "iron": 1,
+   "vitaminC": 15,
+   "vitaminA": 30
+  }
+ },
+ {
+  "id": "zucchini",
+  "names": {
+   "en": "Zucchini",
+   "it": "Zucchine"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 17,
+   "protein": 1.2,
+   "carbs": 3.1,
+   "fat": 0.3,
+   "fiber": 1,
+   "sugar": 2.5,
+   "saturatedFat": 0.1,
+   "sodium": 8,
+   "potassium": 261,
+   "calcium": 16,
+   "iron": 0.4,
+   "vitaminC": 18,
+   "folate": 24
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "eggplant",
+  "names": {
+   "en": "Eggplant",
+   "it": "Melanzana"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 25,
+   "protein": 1,
+   "carbs": 5.9,
+   "fat": 0.2,
+   "fiber": 3,
+   "sugar": 3.5,
+   "saturatedFat": 0,
+   "sodium": 2,
+   "potassium": 229,
+   "calcium": 9,
+   "iron": 0.2,
+   "vitaminC": 2
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "bell_pepper",
+  "names": {
+   "en": "Red bell pepper",
+   "it": "Peperone rosso"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 31,
+   "protein": 1,
+   "carbs": 6,
+   "fat": 0.3,
+   "fiber": 2.1,
+   "sugar": 4.2,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 211,
+   "calcium": 7,
+   "iron": 0.4,
+   "vitaminC": 128,
+   "vitaminA": 157,
+   "vitaminB6": 0.3
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 medio"
+  }
+ },
+ {
+  "id": "broccoli",
+  "names": {
+   "en": "Broccoli",
+   "it": "Broccoli"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 34,
+   "protein": 2.8,
+   "carbs": 6.6,
+   "fat": 0.4,
+   "fiber": 2.6,
+   "sugar": 1.7,
+   "saturatedFat": 0.1,
+   "sodium": 33,
+   "potassium": 316,
+   "calcium": 47,
+   "iron": 0.7,
+   "vitaminC": 89,
+   "vitaminK": 102,
+   "folate": 63,
+   "vitaminA": 31
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "spinach",
+  "names": {
+   "en": "Spinach",
+   "it": "Spinaci"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 23,
+   "protein": 2.9,
+   "carbs": 3.6,
+   "fat": 0.4,
+   "fiber": 2.2,
+   "sugar": 0.4,
+   "saturatedFat": 0.1,
+   "sodium": 79,
+   "potassium": 558,
+   "calcium": 99,
+   "iron": 2.7,
+   "vitaminA": 469,
+   "vitaminC": 28,
+   "vitaminK": 483,
+   "folate": 194,
+   "magnesium": 79
+  }
+ },
+ {
+  "id": "lettuce",
+  "names": {
+   "en": "Lettuce",
+   "it": "Lattuga"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 15,
+   "protein": 1.4,
+   "carbs": 2.9,
+   "fat": 0.2,
+   "fiber": 1.3,
+   "sugar": 0.8,
+   "saturatedFat": 0,
+   "sodium": 28,
+   "potassium": 194,
+   "calcium": 36,
+   "iron": 0.9,
+   "vitaminA": 370,
+   "vitaminK": 126,
+   "folate": 38
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "rocket",
+  "names": {
+   "en": "Rocket",
+   "it": "Rucola"
+  },
+  "serving": 40,
+  "nutrients": {
+   "calories": 25,
+   "protein": 2.6,
+   "carbs": 3.7,
+   "fat": 0.7,
+   "fiber": 1.6,
+   "sugar": 2,
+   "saturatedFat": 0.1,
+   "sodium": 27,
+   "potassium": 369,
+   "calcium": 160,
+   "iron": 1.5,
+   "vitaminA": 119,
+   "vitaminC": 15,
+   "vitaminK": 109,
+   "folate": 97
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "carrot",
+  "names": {
+   "en": "Carrot",
+   "it": "Carota"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 41,
+   "protein": 0.9,
+   "carbs": 9.6,
+   "fat": 0.2,
+   "fiber": 2.8,
+   "sugar": 4.7,
+   "saturatedFat": 0,
+   "sodium": 69,
+   "potassium": 320,
+   "calcium": 33,
+   "iron": 0.3,
+   "vitaminA": 835,
+   "vitaminK": 13
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "onion",
+  "names": {
+   "en": "Onion",
+   "it": "Cipolla"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 40,
+   "protein": 1.1,
+   "carbs": 9.3,
+   "fat": 0.1,
+   "fiber": 1.7,
+   "sugar": 4.2,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 146,
+   "calcium": 23,
+   "iron": 0.2,
+   "vitaminC": 7
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "garlic",
+  "names": {
+   "en": "Garlic",
+   "it": "Aglio"
+  },
+  "serving": 5,
+  "nutrients": {
+   "calories": 149,
+   "protein": 6.4,
+   "carbs": 33,
+   "fat": 0.5,
+   "fiber": 2.1,
+   "sugar": 1,
+   "saturatedFat": 0.1,
+   "sodium": 17,
+   "potassium": 401,
+   "calcium": 181,
+   "iron": 1.7,
+   "vitaminC": 31
+  },
+  "servingLabel": {
+   "en": "1 clove",
+   "it": "1 spicchio"
+  }
+ },
+ {
+  "id": "cucumber",
+  "names": {
+   "en": "Cucumber",
+   "it": "Cetriolo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 15,
+   "protein": 0.7,
+   "carbs": 3.6,
+   "fat": 0.1,
+   "fiber": 0.5,
+   "sugar": 1.7,
+   "saturatedFat": 0,
+   "sodium": 2,
+   "potassium": 147,
+   "calcium": 16,
+   "iron": 0.3,
+   "vitaminK": 16
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "mushrooms",
+  "names": {
+   "en": "Mushrooms",
+   "it": "Funghi champignon"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 22,
+   "protein": 3.1,
+   "carbs": 3.3,
+   "fat": 0.3,
+   "fiber": 1,
+   "sugar": 2,
+   "saturatedFat": 0.1,
+   "sodium": 5,
+   "potassium": 318,
+   "calcium": 3,
+   "iron": 0.5,
+   "selenium": 9,
+   "niacin": 3.6,
+   "vitaminD": 0.2
+  }
+ },
+ {
+  "id": "green_beans",
+  "names": {
+   "en": "Green beans",
+   "it": "Fagiolini"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 31,
+   "protein": 1.8,
+   "carbs": 7,
+   "fat": 0.2,
+   "fiber": 2.7,
+   "sugar": 3.3,
+   "saturatedFat": 0,
+   "sodium": 6,
+   "potassium": 211,
+   "calcium": 37,
+   "iron": 1,
+   "vitaminC": 12,
+   "vitaminK": 43
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "cauliflower",
+  "names": {
+   "en": "Cauliflower",
+   "it": "Cavolfiore"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 25,
+   "protein": 1.9,
+   "carbs": 5,
+   "fat": 0.3,
+   "fiber": 2,
+   "sugar": 1.9,
+   "saturatedFat": 0.1,
+   "sodium": 30,
+   "potassium": 299,
+   "calcium": 22,
+   "iron": 0.4,
+   "vitaminC": 48,
+   "vitaminK": 16,
+   "folate": 57
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "artichoke",
+  "names": {
+   "en": "Artichoke, cooked",
+   "it": "Carciofo cotto"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 53,
+   "protein": 2.9,
+   "carbs": 12,
+   "fat": 0.3,
+   "fiber": 8.6,
+   "sugar": 1,
+   "saturatedFat": 0.1,
+   "sodium": 60,
+   "potassium": 286,
+   "calcium": 21,
+   "iron": 0.6,
+   "vitaminC": 7,
+   "folate": 89,
+   "magnesium": 42
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 medio"
+  }
+ },
+ {
+  "id": "fennel",
+  "names": {
+   "en": "Fennel",
+   "it": "Finocchio"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 31,
+   "protein": 1.2,
+   "carbs": 7.3,
+   "fat": 0.2,
+   "fiber": 3.1,
+   "sugar": 3.9,
+   "saturatedFat": 0,
+   "sodium": 52,
+   "potassium": 414,
+   "calcium": 49,
+   "iron": 0.7,
+   "vitaminC": 12
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "corn_sweet",
+  "names": {
+   "en": "Sweet corn",
+   "it": "Mais dolce"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 86,
+   "protein": 3.3,
+   "carbs": 19,
+   "fat": 1.4,
+   "fiber": 2,
+   "sugar": 6.3,
+   "saturatedFat": 0.2,
+   "sodium": 15,
+   "potassium": 270,
+   "calcium": 2,
+   "iron": 0.5,
+   "vitaminC": 7,
+   "folate": 42
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "avocado",
+  "names": {
+   "en": "Avocado",
+   "it": "Avocado"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 160,
+   "protein": 2,
+   "carbs": 8.5,
+   "fat": 15,
+   "fiber": 6.7,
+   "sugar": 0.7,
+   "saturatedFat": 2.1,
+   "sodium": 7,
+   "potassium": 485,
+   "calcium": 12,
+   "iron": 0.6,
+   "vitaminK": 21,
+   "folate": 81,
+   "vitaminE": 2.1,
+   "vitaminB6": 0.3,
+   "magnesium": 29
+  },
+  "servingLabel": {
+   "en": "1/2 fruit",
+   "it": "1/2 frutto"
+  }
+ },
+ {
+  "id": "olives",
+  "names": {
+   "en": "Olives",
+   "it": "Olive"
+  },
+  "serving": 15,
+  "nutrients": {
+   "calories": 115,
+   "protein": 0.8,
+   "carbs": 6,
+   "fat": 11,
+   "fiber": 3.2,
+   "sugar": 0,
+   "saturatedFat": 1.4,
+   "sodium": 735,
+   "potassium": 8,
+   "calcium": 88,
+   "iron": 3.3,
+   "vitaminE": 3.8
+  },
+  "servingLabel": {
+   "en": "5 olives",
+   "it": "5 olive"
+  }
+ },
+ {
+  "id": "apple",
+  "names": {
+   "en": "Apple",
+   "it": "Mela"
+  },
+  "serving": 180,
+  "nutrients": {
+   "calories": 52,
+   "protein": 0.3,
+   "carbs": 14,
+   "fat": 0.2,
+   "fiber": 2.4,
+   "sugar": 10,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 107,
+   "calcium": 6,
+   "iron": 0.1,
+   "vitaminC": 4.6
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "banana",
+  "names": {
+   "en": "Banana",
+   "it": "Banana"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 89,
+   "protein": 1.1,
+   "carbs": 23,
+   "fat": 0.3,
+   "fiber": 2.6,
+   "sugar": 12,
+   "saturatedFat": 0.1,
+   "sodium": 1,
+   "potassium": 358,
+   "calcium": 5,
+   "iron": 0.3,
+   "vitaminC": 8.7,
+   "vitaminB6": 0.4,
+   "magnesium": 27
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "orange",
+  "names": {
+   "en": "Orange",
+   "it": "Arancia"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 47,
+   "protein": 0.9,
+   "carbs": 12,
+   "fat": 0.1,
+   "fiber": 2.4,
+   "sugar": 9.4,
+   "saturatedFat": 0,
+   "sodium": 0,
+   "potassium": 181,
+   "calcium": 40,
+   "iron": 0.1,
+   "vitaminC": 53,
+   "folate": 30
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "pear",
+  "names": {
+   "en": "Pear",
+   "it": "Pera"
+  },
+  "serving": 170,
+  "nutrients": {
+   "calories": 57,
+   "protein": 0.4,
+   "carbs": 15,
+   "fat": 0.1,
+   "fiber": 3.1,
+   "sugar": 9.8,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 116,
+   "calcium": 9,
+   "iron": 0.2,
+   "vitaminC": 4.3
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "strawberries",
+  "names": {
+   "en": "Strawberries",
+   "it": "Fragole"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 32,
+   "protein": 0.7,
+   "carbs": 7.7,
+   "fat": 0.3,
+   "fiber": 2,
+   "sugar": 4.9,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 153,
+   "calcium": 16,
+   "iron": 0.4,
+   "vitaminC": 59,
+   "folate": 24,
+   "manganese": 0.4
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "blueberries",
+  "names": {
+   "en": "Blueberries",
+   "it": "Mirtilli"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 57,
+   "protein": 0.7,
+   "carbs": 14,
+   "fat": 0.3,
+   "fiber": 2.4,
+   "sugar": 10,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 77,
+   "calcium": 6,
+   "iron": 0.3,
+   "vitaminC": 9.7,
+   "vitaminK": 19
+  }
+ },
+ {
+  "id": "grapes",
+  "names": {
+   "en": "Grapes",
+   "it": "Uva"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 69,
+   "protein": 0.7,
+   "carbs": 18,
+   "fat": 0.2,
+   "fiber": 0.9,
+   "sugar": 15,
+   "saturatedFat": 0.1,
+   "sodium": 2,
+   "potassium": 191,
+   "calcium": 10,
+   "iron": 0.4,
+   "vitaminC": 3.2,
+   "vitaminK": 15
+  },
+  "servingLabel": {
+   "en": "1 bunch",
+   "it": "1 grappolo"
+  }
+ },
+ {
+  "id": "peach",
+  "names": {
+   "en": "Peach",
+   "it": "Pesca"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 39,
+   "protein": 0.9,
+   "carbs": 9.5,
+   "fat": 0.3,
+   "fiber": 1.5,
+   "sugar": 8.4,
+   "saturatedFat": 0,
+   "sodium": 0,
+   "potassium": 190,
+   "calcium": 6,
+   "iron": 0.3,
+   "vitaminC": 6.6,
+   "vitaminA": 16
+  },
+  "servingLabel": {
+   "en": "1 medium",
+   "it": "1 media"
+  }
+ },
+ {
+  "id": "kiwi",
+  "names": {
+   "en": "Kiwi",
+   "it": "Kiwi"
+  },
+  "serving": 75,
+  "nutrients": {
+   "calories": 61,
+   "protein": 1.1,
+   "carbs": 15,
+   "fat": 0.5,
+   "fiber": 3,
+   "sugar": 9,
+   "saturatedFat": 0,
+   "sodium": 3,
+   "potassium": 312,
+   "calcium": 34,
+   "iron": 0.3,
+   "vitaminC": 93,
+   "vitaminK": 40,
+   "vitaminE": 1.5
+  },
+  "servingLabel": {
+   "en": "1 fruit",
+   "it": "1 frutto"
+  }
+ },
+ {
+  "id": "watermelon",
+  "names": {
+   "en": "Watermelon",
+   "it": "Anguria"
+  },
+  "serving": 300,
+  "nutrients": {
+   "calories": 30,
+   "protein": 0.6,
+   "carbs": 7.6,
+   "fat": 0.2,
+   "fiber": 0.4,
+   "sugar": 6.2,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 112,
+   "calcium": 7,
+   "iron": 0.2,
+   "vitaminC": 8,
+   "vitaminA": 28
+  },
+  "servingLabel": {
+   "en": "1 slice",
+   "it": "1 fetta"
+  }
+ },
+ {
+  "id": "melon",
+  "names": {
+   "en": "Cantaloupe melon",
+   "it": "Melone"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 34,
+   "protein": 0.8,
+   "carbs": 8.2,
+   "fat": 0.2,
+   "fiber": 0.9,
+   "sugar": 7.9,
+   "saturatedFat": 0.1,
+   "sodium": 16,
+   "potassium": 267,
+   "calcium": 9,
+   "iron": 0.2,
+   "vitaminC": 37,
+   "vitaminA": 169
+  },
+  "servingLabel": {
+   "en": "1 slice",
+   "it": "1 fetta"
+  }
+ },
+ {
+  "id": "pineapple",
+  "names": {
+   "en": "Pineapple",
+   "it": "Ananas"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 50,
+   "protein": 0.5,
+   "carbs": 13,
+   "fat": 0.1,
+   "fiber": 1.4,
+   "sugar": 9.9,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 109,
+   "calcium": 13,
+   "iron": 0.3,
+   "vitaminC": 48,
+   "manganese": 0.9
+  },
+  "servingLabel": {
+   "en": "1 slice",
+   "it": "1 fetta"
+  }
+ },
+ {
+  "id": "mango",
+  "names": {
+   "en": "Mango",
+   "it": "Mango"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 60,
+   "protein": 0.8,
+   "carbs": 15,
+   "fat": 0.4,
+   "fiber": 1.6,
+   "sugar": 14,
+   "saturatedFat": 0.1,
+   "sodium": 1,
+   "potassium": 168,
+   "calcium": 11,
+   "iron": 0.2,
+   "vitaminC": 36,
+   "vitaminA": 54,
+   "folate": 43
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "cherries",
+  "names": {
+   "en": "Cherries",
+   "it": "Ciliegie"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 63,
+   "protein": 1.1,
+   "carbs": 16,
+   "fat": 0.2,
+   "fiber": 2.1,
+   "sugar": 13,
+   "saturatedFat": 0,
+   "sodium": 0,
+   "potassium": 222,
+   "calcium": 13,
+   "iron": 0.4,
+   "vitaminC": 7
+  }
+ },
+ {
+  "id": "lemon_juice",
+  "names": {
+   "en": "Lemon juice",
+   "it": "Succo di limone"
+  },
+  "serving": 15,
+  "nutrients": {
+   "calories": 22,
+   "protein": 0.4,
+   "carbs": 6.9,
+   "fat": 0.2,
+   "fiber": 0.3,
+   "sugar": 2.5,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 103,
+   "calcium": 6,
+   "iron": 0.1,
+   "vitaminC": 39
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "dates",
+  "names": {
+   "en": "Dates",
+   "it": "Datteri"
+  },
+  "serving": 24,
+  "nutrients": {
+   "calories": 277,
+   "protein": 1.8,
+   "carbs": 75,
+   "fat": 0.2,
+   "fiber": 6.7,
+   "sugar": 66,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 696,
+   "calcium": 64,
+   "iron": 0.9,
+   "magnesium": 54
+  },
+  "servingLabel": {
+   "en": "3 dates",
+   "it": "3 datteri"
+  }
+ },
+ {
+  "id": "raisins",
+  "names": {
+   "en": "Raisins",
+   "it": "Uvetta"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 299,
+   "protein": 3.1,
+   "carbs": 79,
+   "fat": 0.5,
+   "fiber": 3.7,
+   "sugar": 59,
+   "saturatedFat": 0.1,
+   "sodium": 11,
+   "potassium": 749,
+   "calcium": 50,
+   "iron": 1.9
+  },
+  "servingLabel": {
+   "en": "1 handful",
+   "it": "1 manciata"
+  }
+ },
+ {
+  "id": "almonds",
+  "names": {
+   "en": "Almonds",
+   "it": "Mandorle"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 579,
+   "protein": 21,
+   "carbs": 22,
+   "fat": 50,
+   "fiber": 12.5,
+   "sugar": 4.4,
+   "saturatedFat": 3.8,
+   "sodium": 1,
+   "potassium": 733,
+   "calcium": 269,
+   "iron": 3.7,
+   "magnesium": 270,
+   "vitaminE": 26,
+   "zinc": 3.1,
+   "riboflavin": 1.1
+  },
+  "servingLabel": {
+   "en": "1 handful",
+   "it": "1 manciata"
+  }
+ },
+ {
+  "id": "walnuts",
+  "names": {
+   "en": "Walnuts",
+   "it": "Noci"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 654,
+   "protein": 15,
+   "carbs": 14,
+   "fat": 65,
+   "fiber": 6.7,
+   "sugar": 2.6,
+   "saturatedFat": 6.1,
+   "sodium": 2,
+   "potassium": 441,
+   "calcium": 98,
+   "iron": 2.9,
+   "magnesium": 158,
+   "zinc": 3.1,
+   "polyunsaturatedFat": 47
+  },
+  "servingLabel": {
+   "en": "1 handful",
+   "it": "1 manciata"
+  }
+ },
+ {
+  "id": "hazelnuts",
+  "names": {
+   "en": "Hazelnuts",
+   "it": "Nocciole"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 628,
+   "protein": 15,
+   "carbs": 17,
+   "fat": 61,
+   "fiber": 9.7,
+   "sugar": 4.3,
+   "saturatedFat": 4.5,
+   "sodium": 0,
+   "potassium": 680,
+   "calcium": 114,
+   "iron": 4.7,
+   "magnesium": 163,
+   "vitaminE": 15,
+   "manganese": 6.2
+  },
+  "servingLabel": {
+   "en": "1 handful",
+   "it": "1 manciata"
+  }
+ },
+ {
+  "id": "pistachios",
+  "names": {
+   "en": "Pistachios",
+   "it": "Pistacchi"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 560,
+   "protein": 20,
+   "carbs": 28,
+   "fat": 45,
+   "fiber": 10.6,
+   "sugar": 7.7,
+   "saturatedFat": 5.9,
+   "sodium": 1,
+   "potassium": 1025,
+   "calcium": 105,
+   "iron": 3.9,
+   "vitaminB6": 1.7,
+   "thiamin": 0.9
+  },
+  "servingLabel": {
+   "en": "1 handful",
+   "it": "1 manciata"
+  }
+ },
+ {
+  "id": "peanut_butter",
+  "names": {
+   "en": "Peanut butter",
+   "it": "Burro di arachidi"
+  },
+  "serving": 20,
+  "nutrients": {
+   "calories": 588,
+   "protein": 25,
+   "carbs": 20,
+   "fat": 50,
+   "fiber": 6,
+   "sugar": 9,
+   "saturatedFat": 10,
+   "sodium": 17,
+   "potassium": 649,
+   "calcium": 43,
+   "iron": 1.9,
+   "magnesium": 154,
+   "niacin": 13,
+   "vitaminE": 9
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "chia_seeds",
+  "names": {
+   "en": "Chia seeds",
+   "it": "Semi di chia"
+  },
+  "serving": 15,
+  "nutrients": {
+   "calories": 486,
+   "protein": 17,
+   "carbs": 42,
+   "fat": 31,
+   "fiber": 34,
+   "sugar": 0,
+   "saturatedFat": 3.3,
+   "sodium": 16,
+   "potassium": 407,
+   "calcium": 631,
+   "iron": 7.7,
+   "magnesium": 335,
+   "phosphorus": 860
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "flax_seeds",
+  "names": {
+   "en": "Flax seeds",
+   "it": "Semi di lino"
+  },
+  "serving": 10,
+  "nutrients": {
+   "calories": 534,
+   "protein": 18,
+   "carbs": 29,
+   "fat": 42,
+   "fiber": 27,
+   "sugar": 1.6,
+   "saturatedFat": 3.7,
+   "sodium": 30,
+   "potassium": 813,
+   "calcium": 255,
+   "iron": 5.7,
+   "magnesium": 392
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "milk_whole",
+  "names": {
+   "en": "Whole milk",
+   "it": "Latte intero"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 61,
+   "protein": 3.2,
+   "carbs": 4.8,
+   "fat": 3.3,
+   "fiber": 0,
+   "sugar": 5,
+   "saturatedFat": 1.9,
+   "sodium": 43,
+   "potassium": 132,
+   "calcium": 113,
+   "iron": 0,
+   "vitaminB12": 0.5,
+   "vitaminA": 46,
+   "vitaminD": 1.3,
+   "riboflavin": 0.2,
+   "phosphorus": 84
+  },
+  "servingLabel": {
+   "en": "1 glass",
+   "it": "1 bicchiere"
+  }
+ },
+ {
+  "id": "milk_skim",
+  "names": {
+   "en": "Skimmed milk",
+   "it": "Latte scremato"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 34,
+   "protein": 3.4,
+   "carbs": 5,
+   "fat": 0.1,
+   "fiber": 0,
+   "sugar": 5,
+   "saturatedFat": 0.1,
+   "sodium": 42,
+   "potassium": 156,
+   "calcium": 122,
+   "iron": 0,
+   "vitaminB12": 0.5,
+   "riboflavin": 0.2,
+   "phosphorus": 95
+  },
+  "servingLabel": {
+   "en": "1 glass",
+   "it": "1 bicchiere"
+  }
+ },
+ {
+  "id": "milk_oat",
+  "names": {
+   "en": "Oat drink",
+   "it": "Bevanda d'avena"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 43,
+   "protein": 1,
+   "carbs": 6.6,
+   "fat": 1.5,
+   "fiber": 0.8,
+   "sugar": 4,
+   "saturatedFat": 0.2,
+   "sodium": 40,
+   "potassium": 100,
+   "calcium": 120,
+   "iron": 0.2,
+   "vitaminD": 1.5,
+   "vitaminB12": 0.4
+  },
+  "servingLabel": {
+   "en": "1 glass",
+   "it": "1 bicchiere"
+  }
+ },
+ {
+  "id": "yogurt_plain",
+  "names": {
+   "en": "Plain yogurt",
+   "it": "Yogurt bianco intero"
+  },
+  "serving": 125,
+  "nutrients": {
+   "calories": 61,
+   "protein": 3.5,
+   "carbs": 4.7,
+   "fat": 3.3,
+   "fiber": 0,
+   "sugar": 4.7,
+   "saturatedFat": 2.1,
+   "sodium": 46,
+   "potassium": 155,
+   "calcium": 121,
+   "iron": 0.1,
+   "vitaminB12": 0.4,
+   "riboflavin": 0.1,
+   "phosphorus": 95
+  },
+  "servingLabel": {
+   "en": "1 pot",
+   "it": "1 vasetto"
+  }
+ },
+ {
+  "id": "yogurt_greek",
+  "names": {
+   "en": "Greek yogurt, 0%",
+   "it": "Yogurt greco 0%"
+  },
+  "serving": 170,
+  "nutrients": {
+   "calories": 59,
+   "protein": 10,
+   "carbs": 3.6,
+   "fat": 0.4,
+   "fiber": 0,
+   "sugar": 3.2,
+   "saturatedFat": 0.1,
+   "sodium": 36,
+   "potassium": 141,
+   "calcium": 110,
+   "iron": 0.1,
+   "vitaminB12": 0.8,
+   "phosphorus": 135
+  },
+  "servingLabel": {
+   "en": "1 pot",
+   "it": "1 vasetto"
+  }
+ },
+ {
+  "id": "cheese_parmesan",
+  "names": {
+   "en": "Parmigiano Reggiano",
+   "it": "Parmigiano Reggiano"
+  },
+  "serving": 10,
+  "nutrients": {
+   "calories": 392,
+   "protein": 32,
+   "carbs": 0,
+   "fat": 29,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 19,
+   "sodium": 650,
+   "potassium": 100,
+   "calcium": 1160,
+   "iron": 0.7,
+   "vitaminB12": 1.2,
+   "vitaminA": 270,
+   "phosphorus": 690,
+   "zinc": 4
+  },
+  "servingLabel": {
+   "en": "1 tbsp grated",
+   "it": "1 cucchiaio grattugiato"
+  }
+ },
+ {
+  "id": "cheese_mozzarella",
+  "names": {
+   "en": "Mozzarella",
+   "it": "Mozzarella"
+  },
+  "serving": 125,
+  "nutrients": {
+   "calories": 253,
+   "protein": 18,
+   "carbs": 2.5,
+   "fat": 19,
+   "fiber": 0,
+   "sugar": 1,
+   "saturatedFat": 11,
+   "sodium": 370,
+   "potassium": 70,
+   "calcium": 350,
+   "iron": 0.2,
+   "vitaminB12": 1.1,
+   "vitaminA": 180,
+   "phosphorus": 350
+  },
+  "servingLabel": {
+   "en": "1 ball",
+   "it": "1 mozzarella"
+  }
+ },
+ {
+  "id": "cheese_ricotta",
+  "names": {
+   "en": "Ricotta",
+   "it": "Ricotta"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 146,
+   "protein": 8.8,
+   "carbs": 3,
+   "fat": 11,
+   "fiber": 0,
+   "sugar": 0.3,
+   "saturatedFat": 7,
+   "sodium": 70,
+   "potassium": 105,
+   "calcium": 207,
+   "iron": 0.4,
+   "vitaminB12": 0.3,
+   "vitaminA": 120
+  }
+ },
+ {
+  "id": "cheese_cottage",
+  "names": {
+   "en": "Cottage cheese",
+   "it": "Fiocchi di latte"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 98,
+   "protein": 11,
+   "carbs": 3.4,
+   "fat": 4.3,
+   "fiber": 0,
+   "sugar": 2.7,
+   "saturatedFat": 1.7,
+   "sodium": 364,
+   "potassium": 104,
+   "calcium": 83,
+   "iron": 0.1,
+   "vitaminB12": 0.4,
+   "selenium": 10
+  }
+ },
+ {
+  "id": "cheese_feta",
+  "names": {
+   "en": "Feta",
+   "it": "Feta"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 264,
+   "protein": 14,
+   "carbs": 4,
+   "fat": 21,
+   "fiber": 0,
+   "sugar": 4,
+   "saturatedFat": 15,
+   "sodium": 1116,
+   "potassium": 62,
+   "calcium": 493,
+   "iron": 0.7,
+   "vitaminB12": 1.7
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "cheese_stracchino",
+  "names": {
+   "en": "Stracchino",
+   "it": "Stracchino"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 300,
+   "protein": 18,
+   "carbs": 1,
+   "fat": 25,
+   "fiber": 0,
+   "sugar": 1,
+   "saturatedFat": 16,
+   "sodium": 500,
+   "potassium": 120,
+   "calcium": 560,
+   "iron": 0.3,
+   "vitaminB12": 1
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "butter",
+  "names": {
+   "en": "Butter",
+   "it": "Burro"
+  },
+  "serving": 10,
+  "nutrients": {
+   "calories": 717,
+   "protein": 0.9,
+   "carbs": 0.1,
+   "fat": 81,
+   "fiber": 0,
+   "sugar": 0.1,
+   "saturatedFat": 51,
+   "sodium": 11,
+   "potassium": 24,
+   "calcium": 24,
+   "iron": 0,
+   "vitaminA": 684,
+   "vitaminD": 1.5,
+   "vitaminE": 2.3
+  },
+  "servingLabel": {
+   "en": "1 tsp",
+   "it": "1 cucchiaino"
+  }
+ },
+ {
+  "id": "egg",
+  "names": {
+   "en": "Egg",
+   "it": "Uovo"
+  },
+  "serving": 60,
+  "nutrients": {
+   "calories": 143,
+   "protein": 12.6,
+   "carbs": 0.7,
+   "fat": 9.5,
+   "fiber": 0,
+   "sugar": 0.4,
+   "saturatedFat": 3.1,
+   "sodium": 142,
+   "potassium": 138,
+   "calcium": 56,
+   "iron": 1.8,
+   "vitaminB12": 0.9,
+   "vitaminA": 160,
+   "vitaminD": 2,
+   "folate": 47,
+   "selenium": 31,
+   "riboflavin": 0.5,
+   "phosphorus": 198,
+   "cholesterol": 372
+  },
+  "servingLabel": {
+   "en": "1 egg",
+   "it": "1 uovo"
+  }
+ },
+ {
+  "id": "egg_white",
+  "names": {
+   "en": "Egg white",
+   "it": "Albume"
+  },
+  "serving": 33,
+  "nutrients": {
+   "calories": 52,
+   "protein": 11,
+   "carbs": 0.7,
+   "fat": 0.2,
+   "fiber": 0,
+   "sugar": 0.7,
+   "saturatedFat": 0,
+   "sodium": 166,
+   "potassium": 163,
+   "calcium": 7,
+   "iron": 0.1,
+   "riboflavin": 0.4,
+   "selenium": 20
+  },
+  "servingLabel": {
+   "en": "1 egg white",
+   "it": "1 albume"
+  }
+ },
+ {
+  "id": "chicken_breast",
+  "names": {
+   "en": "Chicken breast, raw",
+   "it": "Petto di pollo crudo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 120,
+   "protein": 22.5,
+   "carbs": 0,
+   "fat": 2.6,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.6,
+   "sodium": 45,
+   "potassium": 334,
+   "calcium": 5,
+   "iron": 0.4,
+   "vitaminB6": 0.8,
+   "niacin": 9.6,
+   "selenium": 23,
+   "phosphorus": 210,
+   "vitaminB12": 0.2
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "chicken_thigh",
+  "names": {
+   "en": "Chicken thigh, raw",
+   "it": "Coscia di pollo cruda"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 177,
+   "protein": 18,
+   "carbs": 0,
+   "fat": 11,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 3.1,
+   "sodium": 80,
+   "potassium": 230,
+   "calcium": 10,
+   "iron": 0.9,
+   "vitaminB12": 0.6,
+   "niacin": 5,
+   "zinc": 1.8
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "turkey_breast",
+  "names": {
+   "en": "Turkey breast, raw",
+   "it": "Fesa di tacchino cruda"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 111,
+   "protein": 24,
+   "carbs": 0,
+   "fat": 1,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.3,
+   "sodium": 50,
+   "potassium": 300,
+   "calcium": 10,
+   "iron": 0.7,
+   "vitaminB6": 0.8,
+   "niacin": 10,
+   "selenium": 27
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "beef_lean",
+  "names": {
+   "en": "Beef, lean, raw",
+   "it": "Manzo magro crudo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 137,
+   "protein": 21.5,
+   "carbs": 0,
+   "fat": 5.4,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 2.2,
+   "sodium": 60,
+   "potassium": 330,
+   "calcium": 6,
+   "iron": 2.1,
+   "vitaminB12": 2.2,
+   "zinc": 4.2,
+   "selenium": 20,
+   "niacin": 5,
+   "phosphorus": 200
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "beef_ground",
+  "names": {
+   "en": "Ground beef, 15% fat, raw",
+   "it": "Carne macinata di manzo 15%"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 215,
+   "protein": 18.6,
+   "carbs": 0,
+   "fat": 15,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 5.9,
+   "sodium": 66,
+   "potassium": 295,
+   "calcium": 15,
+   "iron": 2,
+   "vitaminB12": 2.1,
+   "zinc": 4.2
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "pork_loin",
+  "names": {
+   "en": "Pork loin, raw",
+   "it": "Lonza di maiale cruda"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 143,
+   "protein": 21,
+   "carbs": 0,
+   "fat": 6.3,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 2.2,
+   "sodium": 53,
+   "potassium": 370,
+   "calcium": 12,
+   "iron": 0.7,
+   "thiamin": 0.9,
+   "vitaminB12": 0.6,
+   "zinc": 1.9,
+   "selenium": 30
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "prosciutto_crudo",
+  "names": {
+   "en": "Prosciutto crudo",
+   "it": "Prosciutto crudo"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 224,
+   "protein": 27,
+   "carbs": 0,
+   "fat": 13,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 4.5,
+   "sodium": 2300,
+   "potassium": 350,
+   "calcium": 10,
+   "iron": 1.2,
+   "vitaminB12": 0.6,
+   "thiamin": 0.8,
+   "zinc": 2.5
+  },
+  "servingLabel": {
+   "en": "3 slices",
+   "it": "3 fette"
+  }
+ },
+ {
+  "id": "prosciutto_cotto",
+  "names": {
+   "en": "Cooked ham",
+   "it": "Prosciutto cotto"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 132,
+   "protein": 19,
+   "carbs": 1,
+   "fat": 6,
+   "fiber": 0,
+   "sugar": 1,
+   "saturatedFat": 2,
+   "sodium": 1100,
+   "potassium": 330,
+   "calcium": 10,
+   "iron": 0.8,
+   "vitaminB12": 0.5,
+   "thiamin": 0.6
+  },
+  "servingLabel": {
+   "en": "3 slices",
+   "it": "3 fette"
+  }
+ },
+ {
+  "id": "bresaola",
+  "names": {
+   "en": "Bresaola",
+   "it": "Bresaola"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 151,
+   "protein": 32,
+   "carbs": 0.4,
+   "fat": 2.6,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.9,
+   "sodium": 1600,
+   "potassium": 500,
+   "calcium": 10,
+   "iron": 2.4,
+   "vitaminB12": 1.5,
+   "zinc": 4
+  },
+  "servingLabel": {
+   "en": "5 slices",
+   "it": "5 fette"
+  }
+ },
+ {
+  "id": "salami",
+  "names": {
+   "en": "Salami",
+   "it": "Salame"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 425,
+   "protein": 26,
+   "carbs": 1,
+   "fat": 36,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 13,
+   "sodium": 1700,
+   "potassium": 330,
+   "calcium": 10,
+   "iron": 1.5,
+   "vitaminB12": 1.5
+  },
+  "servingLabel": {
+   "en": "3 slices",
+   "it": "3 fette"
+  }
+ },
+ {
+  "id": "salmon",
+  "names": {
+   "en": "Salmon, raw",
+   "it": "Salmone crudo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 208,
+   "protein": 20,
+   "carbs": 0,
+   "fat": 13,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 3.1,
+   "sodium": 59,
+   "potassium": 363,
+   "calcium": 9,
+   "iron": 0.3,
+   "vitaminD": 11,
+   "vitaminB12": 3.2,
+   "selenium": 36,
+   "niacin": 7.9,
+   "polyunsaturatedFat": 3.9
+  },
+  "servingLabel": {
+   "en": "1 fillet",
+   "it": "1 filetto"
+  }
+ },
+ {
+  "id": "salmon_smoked",
+  "names": {
+   "en": "Smoked salmon",
+   "it": "Salmone affumicato"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 117,
+   "protein": 18,
+   "carbs": 0,
+   "fat": 4.3,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 1,
+   "sodium": 672,
+   "potassium": 175,
+   "calcium": 11,
+   "iron": 0.9,
+   "vitaminD": 17,
+   "vitaminB12": 3.3
+  },
+  "servingLabel": {
+   "en": "2 slices",
+   "it": "2 fette"
+  }
+ },
+ {
+  "id": "tuna_canned",
+  "names": {
+   "en": "Tuna, canned in olive oil, drained",
+   "it": "Tonno sott'olio sgocciolato"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 198,
+   "protein": 25,
+   "carbs": 0,
+   "fat": 10,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 1.5,
+   "sodium": 350,
+   "potassium": 250,
+   "calcium": 10,
+   "iron": 1.3,
+   "vitaminB12": 2.5,
+   "selenium": 76,
+   "niacin": 12,
+   "vitaminD": 5
+  },
+  "servingLabel": {
+   "en": "1 can",
+   "it": "1 scatoletta"
+  }
+ },
+ {
+  "id": "tuna_natural",
+  "names": {
+   "en": "Tuna, canned in water, drained",
+   "it": "Tonno al naturale sgocciolato"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 116,
+   "protein": 26,
+   "carbs": 0,
+   "fat": 1,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.3,
+   "sodium": 320,
+   "potassium": 237,
+   "calcium": 10,
+   "iron": 1.3,
+   "vitaminB12": 2.5,
+   "selenium": 80,
+   "niacin": 12
+  },
+  "servingLabel": {
+   "en": "1 can",
+   "it": "1 scatoletta"
+  }
+ },
+ {
+  "id": "cod",
+  "names": {
+   "en": "Cod, raw",
+   "it": "Merluzzo crudo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 82,
+   "protein": 18,
+   "carbs": 0,
+   "fat": 0.7,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.1,
+   "sodium": 54,
+   "potassium": 413,
+   "calcium": 16,
+   "iron": 0.4,
+   "vitaminB12": 0.9,
+   "selenium": 33,
+   "phosphorus": 203
+  },
+  "servingLabel": {
+   "en": "1 fillet",
+   "it": "1 filetto"
+  }
+ },
+ {
+  "id": "sea_bass",
+  "names": {
+   "en": "Sea bass, raw",
+   "it": "Branzino crudo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 97,
+   "protein": 18,
+   "carbs": 0,
+   "fat": 2.5,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.6,
+   "sodium": 68,
+   "potassium": 256,
+   "calcium": 10,
+   "iron": 0.3,
+   "vitaminB12": 1,
+   "selenium": 36,
+   "vitaminD": 3
+  },
+  "servingLabel": {
+   "en": "1 fillet",
+   "it": "1 filetto"
+  }
+ },
+ {
+  "id": "shrimp",
+  "names": {
+   "en": "Shrimp, raw",
+   "it": "Gamberi crudi"
+  },
+  "serving": 100,
+  "nutrients": {
+   "calories": 85,
+   "protein": 20,
+   "carbs": 0.2,
+   "fat": 0.5,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.1,
+   "sodium": 119,
+   "potassium": 264,
+   "calcium": 64,
+   "iron": 0.5,
+   "vitaminB12": 1.1,
+   "selenium": 38,
+   "phosphorus": 214
+  }
+ },
+ {
+  "id": "sardines",
+  "names": {
+   "en": "Sardines, canned in oil",
+   "it": "Sardine sott'olio"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 208,
+   "protein": 25,
+   "carbs": 0,
+   "fat": 11,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 1.5,
+   "sodium": 307,
+   "potassium": 397,
+   "calcium": 382,
+   "iron": 2.9,
+   "vitaminD": 4.8,
+   "vitaminB12": 8.9,
+   "selenium": 53
+  },
+  "servingLabel": {
+   "en": "1 can",
+   "it": "1 scatoletta"
+  }
+ },
+ {
+  "id": "mackerel",
+  "names": {
+   "en": "Mackerel, raw",
+   "it": "Sgombro crudo"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 205,
+   "protein": 19,
+   "carbs": 0,
+   "fat": 14,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 3.3,
+   "sodium": 90,
+   "potassium": 314,
+   "calcium": 12,
+   "iron": 1.6,
+   "vitaminD": 16,
+   "vitaminB12": 8.7,
+   "selenium": 44
+  },
+  "servingLabel": {
+   "en": "1 fillet",
+   "it": "1 filetto"
+  }
+ },
+ {
+  "id": "olive_oil",
+  "names": {
+   "en": "Extra virgin olive oil",
+   "it": "Olio extravergine d'oliva"
+  },
+  "serving": 10,
+  "nutrients": {
+   "calories": 884,
+   "protein": 0,
+   "carbs": 0,
+   "fat": 100,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 14,
+   "sodium": 2,
+   "potassium": 1,
+   "calcium": 1,
+   "iron": 0.6,
+   "vitaminE": 14,
+   "vitaminK": 60,
+   "monounsaturatedFat": 73
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "mayonnaise",
+  "names": {
+   "en": "Mayonnaise",
+   "it": "Maionese"
+  },
+  "serving": 15,
+  "nutrients": {
+   "calories": 680,
+   "protein": 1,
+   "carbs": 1,
+   "fat": 75,
+   "fiber": 0,
+   "sugar": 1,
+   "saturatedFat": 11,
+   "sodium": 600,
+   "potassium": 20,
+   "calcium": 10,
+   "iron": 0.3,
+   "vitaminE": 3
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "ketchup",
+  "names": {
+   "en": "Ketchup",
+   "it": "Ketchup"
+  },
+  "serving": 15,
+  "nutrients": {
+   "calories": 101,
+   "protein": 1.3,
+   "carbs": 27,
+   "fat": 0.1,
+   "fiber": 0.3,
+   "sugar": 21,
+   "saturatedFat": 0,
+   "sodium": 907,
+   "potassium": 281,
+   "calcium": 15,
+   "iron": 0.4,
+   "vitaminC": 4
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "pesto",
+  "names": {
+   "en": "Pesto",
+   "it": "Pesto alla genovese"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 450,
+   "protein": 5,
+   "carbs": 7,
+   "fat": 45,
+   "fiber": 2,
+   "sugar": 2,
+   "saturatedFat": 8,
+   "sodium": 800,
+   "potassium": 150,
+   "calcium": 250,
+   "iron": 1.5,
+   "vitaminE": 4,
+   "vitaminA": 100
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "honey",
+  "names": {
+   "en": "Honey",
+   "it": "Miele"
+  },
+  "serving": 10,
+  "nutrients": {
+   "calories": 304,
+   "protein": 0.3,
+   "carbs": 82,
+   "fat": 0,
+   "fiber": 0.2,
+   "sugar": 82,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 52,
+   "calcium": 6,
+   "iron": 0.4
+  },
+  "servingLabel": {
+   "en": "1 tsp",
+   "it": "1 cucchiaino"
+  }
+ },
+ {
+  "id": "jam",
+  "names": {
+   "en": "Jam",
+   "it": "Marmellata"
+  },
+  "serving": 20,
+  "nutrients": {
+   "calories": 250,
+   "protein": 0.4,
+   "carbs": 62,
+   "fat": 0.1,
+   "fiber": 1,
+   "sugar": 48,
+   "saturatedFat": 0,
+   "sodium": 30,
+   "potassium": 80,
+   "calcium": 20,
+   "iron": 0.3,
+   "vitaminC": 9
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "sugar",
+  "names": {
+   "en": "Sugar",
+   "it": "Zucchero"
+  },
+  "serving": 5,
+  "nutrients": {
+   "calories": 387,
+   "protein": 0,
+   "carbs": 100,
+   "fat": 0,
+   "fiber": 0,
+   "sugar": 100,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 2,
+   "calcium": 1,
+   "iron": 0
+  },
+  "servingLabel": {
+   "en": "1 tsp",
+   "it": "1 cucchiaino"
+  }
+ },
+ {
+  "id": "dark_chocolate",
+  "names": {
+   "en": "Dark chocolate 70%",
+   "it": "Cioccolato fondente 70%"
+  },
+  "serving": 20,
+  "nutrients": {
+   "calories": 598,
+   "protein": 7.8,
+   "carbs": 46,
+   "fat": 43,
+   "fiber": 11,
+   "sugar": 24,
+   "saturatedFat": 24,
+   "sodium": 20,
+   "potassium": 715,
+   "calcium": 73,
+   "iron": 12,
+   "magnesium": 228,
+   "zinc": 3.3,
+   "copper": 1.8,
+   "manganese": 2
+  },
+  "servingLabel": {
+   "en": "2 squares",
+   "it": "2 quadretti"
+  }
+ },
+ {
+  "id": "nutella",
+  "names": {
+   "en": "Hazelnut spread",
+   "it": "Crema alle nocciole"
+  },
+  "serving": 15,
+  "nutrients": {
+   "calories": 539,
+   "protein": 6.3,
+   "carbs": 57,
+   "fat": 31,
+   "fiber": 3,
+   "sugar": 56,
+   "saturatedFat": 11,
+   "sodium": 41,
+   "potassium": 407,
+   "calcium": 108,
+   "iron": 2.4
+  },
+  "servingLabel": {
+   "en": "1 tbsp",
+   "it": "1 cucchiaio"
+  }
+ },
+ {
+  "id": "biscuits",
+  "names": {
+   "en": "Biscuits",
+   "it": "Biscotti frollini"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 470,
+   "protein": 7,
+   "carbs": 70,
+   "fat": 18,
+   "fiber": 2.5,
+   "sugar": 22,
+   "saturatedFat": 8,
+   "sodium": 250,
+   "potassium": 150,
+   "calcium": 40,
+   "iron": 1.5
+  },
+  "servingLabel": {
+   "en": "4 biscuits",
+   "it": "4 biscotti"
+  }
+ },
+ {
+  "id": "croissant",
+  "names": {
+   "en": "Croissant",
+   "it": "Cornetto"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 406,
+   "protein": 8,
+   "carbs": 46,
+   "fat": 21,
+   "fiber": 2.6,
+   "sugar": 11,
+   "saturatedFat": 12,
+   "sodium": 470,
+   "potassium": 120,
+   "calcium": 37,
+   "iron": 1.5,
+   "vitaminA": 100
+  },
+  "servingLabel": {
+   "en": "1 croissant",
+   "it": "1 cornetto"
+  }
+ },
+ {
+  "id": "ice_cream",
+  "names": {
+   "en": "Ice cream",
+   "it": "Gelato"
+  },
+  "serving": 80,
+  "nutrients": {
+   "calories": 207,
+   "protein": 3.5,
+   "carbs": 24,
+   "fat": 11,
+   "fiber": 0.7,
+   "sugar": 21,
+   "saturatedFat": 7,
+   "sodium": 80,
+   "potassium": 199,
+   "calcium": 128,
+   "iron": 0.1,
+   "vitaminA": 120,
+   "vitaminB12": 0.4
+  },
+  "servingLabel": {
+   "en": "1 scoop",
+   "it": "1 pallina"
+  }
+ },
+ {
+  "id": "protein_powder",
+  "names": {
+   "en": "Whey protein powder",
+   "it": "Proteine whey in polvere"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 370,
+   "protein": 78,
+   "carbs": 6,
+   "fat": 5,
+   "fiber": 1,
+   "sugar": 4,
+   "saturatedFat": 3,
+   "sodium": 250,
+   "potassium": 500,
+   "calcium": 400,
+   "iron": 0.5
+  },
+  "servingLabel": {
+   "en": "1 scoop",
+   "it": "1 misurino"
+  }
+ },
+ {
+  "id": "protein_bar",
+  "names": {
+   "en": "Protein bar",
+   "it": "Barretta proteica"
+  },
+  "serving": 50,
+  "nutrients": {
+   "calories": 370,
+   "protein": 33,
+   "carbs": 30,
+   "fat": 12,
+   "fiber": 8,
+   "sugar": 5,
+   "saturatedFat": 6,
+   "sodium": 200,
+   "potassium": 400,
+   "calcium": 200,
+   "iron": 3
+  },
+  "servingLabel": {
+   "en": "1 bar",
+   "it": "1 barretta"
+  }
+ },
+ {
+  "id": "coffee_espresso",
+  "names": {
+   "en": "Espresso",
+   "it": "Caffè espresso"
+  },
+  "serving": 30,
+  "nutrients": {
+   "calories": 9,
+   "protein": 0.1,
+   "carbs": 1.7,
+   "fat": 0.2,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0.1,
+   "sodium": 14,
+   "potassium": 115,
+   "calcium": 2,
+   "iron": 0.1,
+   "niacin": 5
+  },
+  "servingLabel": {
+   "en": "1 cup",
+   "it": "1 tazzina"
+  }
+ },
+ {
+  "id": "cappuccino",
+  "names": {
+   "en": "Cappuccino",
+   "it": "Cappuccino"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 45,
+   "protein": 2.5,
+   "carbs": 4,
+   "fat": 2.2,
+   "fiber": 0,
+   "sugar": 4,
+   "saturatedFat": 1.4,
+   "sodium": 30,
+   "potassium": 110,
+   "calcium": 85,
+   "iron": 0,
+   "vitaminB12": 0.4
+  },
+  "servingLabel": {
+   "en": "1 cup",
+   "it": "1 tazza"
+  }
+ },
+ {
+  "id": "orange_juice",
+  "names": {
+   "en": "Orange juice",
+   "it": "Succo d'arancia"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 45,
+   "protein": 0.7,
+   "carbs": 10,
+   "fat": 0.2,
+   "fiber": 0.2,
+   "sugar": 8.4,
+   "saturatedFat": 0,
+   "sodium": 1,
+   "potassium": 200,
+   "calcium": 11,
+   "iron": 0.2,
+   "vitaminC": 50,
+   "folate": 30
+  },
+  "servingLabel": {
+   "en": "1 glass",
+   "it": "1 bicchiere"
+  }
+ },
+ {
+  "id": "cola",
+  "names": {
+   "en": "Cola",
+   "it": "Cola"
+  },
+  "serving": 330,
+  "nutrients": {
+   "calories": 42,
+   "protein": 0,
+   "carbs": 10.6,
+   "fat": 0,
+   "fiber": 0,
+   "sugar": 10.6,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 2,
+   "calcium": 2,
+   "iron": 0
+  },
+  "servingLabel": {
+   "en": "1 can",
+   "it": "1 lattina"
+  }
+ },
+ {
+  "id": "beer",
+  "names": {
+   "en": "Beer",
+   "it": "Birra"
+  },
+  "serving": 330,
+  "nutrients": {
+   "calories": 43,
+   "protein": 0.5,
+   "carbs": 3.6,
+   "fat": 0,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 27,
+   "calcium": 4,
+   "iron": 0,
+   "niacin": 0.5,
+   "vitaminB6": 0.05
+  },
+  "servingLabel": {
+   "en": "1 bottle",
+   "it": "1 bottiglia"
+  }
+ },
+ {
+  "id": "wine_red",
+  "names": {
+   "en": "Red wine",
+   "it": "Vino rosso"
+  },
+  "serving": 125,
+  "nutrients": {
+   "calories": 85,
+   "protein": 0.1,
+   "carbs": 2.6,
+   "fat": 0,
+   "fiber": 0,
+   "sugar": 0.6,
+   "saturatedFat": 0,
+   "sodium": 4,
+   "potassium": 127,
+   "calcium": 8,
+   "iron": 0.5,
+   "manganese": 0.1
+  },
+  "servingLabel": {
+   "en": "1 glass",
+   "it": "1 bicchiere"
+  }
+ },
+ {
+  "id": "wine_white",
+  "names": {
+   "en": "White wine",
+   "it": "Vino bianco"
+  },
+  "serving": 125,
+  "nutrients": {
+   "calories": 82,
+   "protein": 0.1,
+   "carbs": 2.6,
+   "fat": 0,
+   "fiber": 0,
+   "sugar": 1,
+   "saturatedFat": 0,
+   "sodium": 5,
+   "potassium": 71,
+   "calcium": 9,
+   "iron": 0.3
+  },
+  "servingLabel": {
+   "en": "1 glass",
+   "it": "1 bicchiere"
+  }
+ },
+ {
+  "id": "pasta_pomodoro",
+  "names": {
+   "en": "Pasta with tomato sauce",
+   "it": "Pasta al pomodoro"
+  },
+  "serving": 250,
+  "nutrients": {
+   "calories": 150,
+   "protein": 5,
+   "carbs": 27,
+   "fat": 2.5,
+   "fiber": 2,
+   "sugar": 2.5,
+   "saturatedFat": 0.4,
+   "sodium": 230,
+   "potassium": 180,
+   "calcium": 20,
+   "iron": 0.8,
+   "vitaminC": 5,
+   "vitaminA": 20
+  },
+  "servingLabel": {
+   "en": "1 plate",
+   "it": "1 piatto"
+  }
+ },
+ {
+  "id": "risotto",
+  "names": {
+   "en": "Risotto with parmesan",
+   "it": "Risotto alla parmigiana"
+  },
+  "serving": 250,
+  "nutrients": {
+   "calories": 160,
+   "protein": 5,
+   "carbs": 24,
+   "fat": 4.8,
+   "fiber": 0.6,
+   "sugar": 0.3,
+   "saturatedFat": 2.5,
+   "sodium": 330,
+   "potassium": 80,
+   "calcium": 80,
+   "iron": 0.4,
+   "vitaminA": 40
+  },
+  "servingLabel": {
+   "en": "1 plate",
+   "it": "1 piatto"
+  }
+ },
+ {
+  "id": "lasagna",
+  "names": {
+   "en": "Lasagna bolognese",
+   "it": "Lasagne alla bolognese"
+  },
+  "serving": 250,
+  "nutrients": {
+   "calories": 165,
+   "protein": 9,
+   "carbs": 15,
+   "fat": 7.5,
+   "fiber": 1.3,
+   "sugar": 2.5,
+   "saturatedFat": 3.5,
+   "sodium": 380,
+   "potassium": 220,
+   "calcium": 120,
+   "iron": 1,
+   "vitaminA": 60,
+   "vitaminB12": 0.6
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "minestrone",
+  "names": {
+   "en": "Minestrone",
+   "it": "Minestrone"
+  },
+  "serving": 300,
+  "nutrients": {
+   "calories": 45,
+   "protein": 2,
+   "carbs": 7,
+   "fat": 1,
+   "fiber": 2.2,
+   "sugar": 1.5,
+   "saturatedFat": 0.2,
+   "sodium": 250,
+   "potassium": 220,
+   "calcium": 25,
+   "iron": 0.6,
+   "vitaminA": 120,
+   "vitaminC": 8
+  },
+  "servingLabel": {
+   "en": "1 bowl",
+   "it": "1 ciotola"
+  }
+ },
+ {
+  "id": "caprese",
+  "names": {
+   "en": "Caprese salad",
+   "it": "Insalata caprese"
+  },
+  "serving": 200,
+  "nutrients": {
+   "calories": 150,
+   "protein": 9,
+   "carbs": 2.5,
+   "fat": 12,
+   "fiber": 1,
+   "sugar": 2,
+   "saturatedFat": 5.5,
+   "sodium": 220,
+   "potassium": 180,
+   "calcium": 180,
+   "iron": 0.3,
+   "vitaminA": 90,
+   "vitaminC": 9
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "omelette",
+  "names": {
+   "en": "Omelette, 2 eggs",
+   "it": "Frittata di 2 uova"
+  },
+  "serving": 130,
+  "nutrients": {
+   "calories": 170,
+   "protein": 12,
+   "carbs": 1,
+   "fat": 13,
+   "fiber": 0,
+   "sugar": 0.5,
+   "saturatedFat": 4,
+   "sodium": 200,
+   "potassium": 150,
+   "calcium": 60,
+   "iron": 1.7,
+   "vitaminB12": 0.9,
+   "vitaminA": 180,
+   "vitaminD": 2
+  },
+  "servingLabel": {
+   "en": "1 omelette",
+   "it": "1 frittata"
+  }
+ },
+ {
+  "id": "sandwich_ham_cheese",
+  "names": {
+   "en": "Ham and cheese sandwich",
+   "it": "Panino prosciutto e formaggio"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 260,
+   "protein": 13,
+   "carbs": 30,
+   "fat": 9.5,
+   "fiber": 2,
+   "sugar": 3,
+   "saturatedFat": 4.5,
+   "sodium": 750,
+   "potassium": 170,
+   "calcium": 130,
+   "iron": 1.5,
+   "vitaminB12": 0.5
+  },
+  "servingLabel": {
+   "en": "1 sandwich",
+   "it": "1 panino"
+  }
+ },
+ {
+  "id": "chicken_grilled",
+  "names": {
+   "en": "Grilled chicken breast",
+   "it": "Petto di pollo alla griglia"
+  },
+  "serving": 120,
+  "nutrients": {
+   "calories": 165,
+   "protein": 31,
+   "carbs": 0,
+   "fat": 3.6,
+   "fiber": 0,
+   "sugar": 0,
+   "saturatedFat": 1,
+   "sodium": 74,
+   "potassium": 256,
+   "calcium": 15,
+   "iron": 1,
+   "vitaminB6": 0.6,
+   "niacin": 13.7,
+   "selenium": 27,
+   "phosphorus": 228
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ },
+ {
+  "id": "salad_mixed",
+  "names": {
+   "en": "Mixed salad with oil",
+   "it": "Insalata mista condita"
+  },
+  "serving": 150,
+  "nutrients": {
+   "calories": 65,
+   "protein": 1.2,
+   "carbs": 3,
+   "fat": 5.5,
+   "fiber": 1.5,
+   "sugar": 2,
+   "saturatedFat": 0.8,
+   "sodium": 120,
+   "potassium": 220,
+   "calcium": 30,
+   "iron": 0.6,
+   "vitaminA": 200,
+   "vitaminC": 12,
+   "vitaminK": 80
+  },
+  "servingLabel": {
+   "en": "1 portion",
+   "it": "1 porzione"
+  }
+ }
+]
