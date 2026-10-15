@@ -1,4 +1,4 @@
-name: MacroLog
+name: FoodLodge
 options:
   bundleIdPrefix: com.andreaverlicchi
   deploymentTarget:
@@ -13,23 +13,23 @@ settings:
     CURRENT_PROJECT_VERSION: "1"
     DEVELOPMENT_LANGUAGE: en
 targets:
-  MacroLog:
+  FoodLodge:
     type: application
     platform: iOS
     sources:
-      - path: MacroLog
+      - path: FoodLodge
         excludes:
           - "**/.DS_Store"
     info:
-      path: MacroLog/Info.plist
+      path: FoodLodge/Info.plist
       properties:
-        CFBundleDisplayName: MacroLog
+        CFBundleDisplayName: Food Lodge
         CFBundleLocalizations: [en, it, es, fr, pt]
         CFBundleDevelopmentRegion: en
         UILaunchScreen: {}
         UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
-        NSCameraUsageDescription: "MacroLog uses the camera to photograph meals and estimate their nutrition."
-        NSPhotoLibraryUsageDescription: "MacroLog reads photos you pick to estimate the nutrition of a meal."
+        NSCameraUsageDescription: "Food Lodge uses the camera to photograph meals and estimate their nutrition."
+        NSPhotoLibraryUsageDescription: "Food Lodge reads photos you pick to estimate the nutrition of a meal."
         NSAppTransportSecurity:
           NSAllowsArbitraryLoads: false
         ITSAppUsesNonExemptEncryption: false
@@ -39,25 +39,25 @@ targets:
         TARGETED_DEVICE_FAMILY: "1"
         GENERATE_INFOPLIST_FILE: false
         ENABLE_PREVIEWS: true
-  MacroLogTests:
+  FoodLodgeTests:
     type: bundle.unit-test
     platform: iOS
     sources:
-      - path: MacroLogTests
+      - path: FoodLodgeTests
     dependencies:
-      - target: MacroLog
+      - target: FoodLodge
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.andreaverlicchi.macrolog.tests
         GENERATE_INFOPLIST_FILE: true
 schemes:
-  MacroLog:
+  FoodLodge:
     build:
       targets:
-        MacroLog: all
-        MacroLogTests: [test]
+        FoodLodge: all
+        FoodLodgeTests: [test]
     run:
       config: Debug
     test:
       config: Debug
-      targets: [MacroLogTests]
+      targets: [FoodLodgeTests]

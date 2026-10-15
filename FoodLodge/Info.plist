@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>MacroLog</string>
+	<string>Food Lodge</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -36,9 +36,9 @@
 		<false/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>MacroLog uses the camera to photograph meals and estimate their nutrition.</string>
+	<string>Food Lodge uses the camera to photograph meals and estimate their nutrition.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>MacroLog reads photos you pick to estimate the nutrition of a meal.</string>
+	<string>Food Lodge reads photos you pick to estimate the nutrition of a meal.</string>
 	<key>UILaunchScreen</key>
 	<dict/>
 	<key>UISupportedInterfaceOrientations</key>

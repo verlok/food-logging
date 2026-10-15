@@ -15,10 +15,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C791F0C9FA37C0E6015585B3"
-               BuildableName = "MacroLog.app"
-               BlueprintName = "MacroLog"
-               ReferencedContainer = "container:MacroLog.xcodeproj">
+               BlueprintIdentifier = "E73A4526C39B1F0F51BF8F70"
+               BuildableName = "FoodLodge.app"
+               BlueprintName = "FoodLodge"
+               ReferencedContainer = "container:FoodLodge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,10 +29,10 @@
             buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C1D497F372BC73612D60353B"
-               BuildableName = "MacroLogTests.xctest"
-               BlueprintName = "MacroLogTests"
-               ReferencedContainer = "container:MacroLog.xcodeproj">
+               BlueprintIdentifier = "A911A43DCF2A82304D164A39"
+               BuildableName = "FoodLodgeTests.xctest"
+               BlueprintName = "FoodLodgeTests"
+               ReferencedContainer = "container:FoodLodge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,10 +46,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C791F0C9FA37C0E6015585B3"
-            BuildableName = "MacroLog.app"
-            BlueprintName = "MacroLog"
-            ReferencedContainer = "container:MacroLog.xcodeproj">
+            BlueprintIdentifier = "E73A4526C39B1F0F51BF8F70"
+            BuildableName = "FoodLodge.app"
+            BlueprintName = "FoodLodge"
+            ReferencedContainer = "container:FoodLodge.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -58,10 +58,10 @@
             parallelizable = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C1D497F372BC73612D60353B"
-               BuildableName = "MacroLogTests.xctest"
-               BlueprintName = "MacroLogTests"
-               ReferencedContainer = "container:MacroLog.xcodeproj">
+               BlueprintIdentifier = "A911A43DCF2A82304D164A39"
+               BuildableName = "FoodLodgeTests.xctest"
+               BlueprintName = "FoodLodgeTests"
+               ReferencedContainer = "container:FoodLodge.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -82,10 +82,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C791F0C9FA37C0E6015585B3"
-            BuildableName = "MacroLog.app"
-            BlueprintName = "MacroLog"
-            ReferencedContainer = "container:MacroLog.xcodeproj">
+            BlueprintIdentifier = "E73A4526C39B1F0F51BF8F70"
+            BuildableName = "FoodLodge.app"
+            BlueprintName = "FoodLodge"
+            ReferencedContainer = "container:FoodLodge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -101,10 +101,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C791F0C9FA37C0E6015585B3"
-            BuildableName = "MacroLog.app"
-            BlueprintName = "MacroLog"
-            ReferencedContainer = "container:MacroLog.xcodeproj">
+            BlueprintIdentifier = "E73A4526C39B1F0F51BF8F70"
+            BuildableName = "FoodLodge.app"
+            BlueprintName = "FoodLodge"
+            ReferencedContainer = "container:FoodLodge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

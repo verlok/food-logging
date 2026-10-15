@@ -1,5 +1,5 @@
 import XCTest
-@testable import MacroLog
+@testable import FoodLodge
 
 final class NutritionEngineTests: XCTestCase {
     private let calendar = Calendar(identifier: .gregorian)

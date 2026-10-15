@@ -9,5 +9,5 @@ xcrun swiftc -typecheck \
   -target arm64-apple-macos15.0 \
   -parse-as-library \
   -D SWIFTDATA_SHIM \
-  $(find MacroLog -name '*.swift') "$@"
+  $(find FoodLodge -name '*.swift') "$@"
 echo "typecheck OK"

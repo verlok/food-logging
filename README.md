@@ -1,6 +1,6 @@
-# MacroLog
+# Food Lodge
 
-A native iOS food diary and macronutrient calculator built with Swift, SwiftUI, SwiftData and Swift Charts. It is inspired by the parts of MacroFactor that matter day to day: logging food in very few taps, a built-in food database you can extend, AI-assisted dish creation from a description or a photo, an energy-expenditure estimate that adapts to the weight you log, and charts for weight, calories and macros.
+A native iOS food diary and macronutrient calculator built with Swift, SwiftUI, SwiftData and Swift Charts. It is built around the parts that matter day to day: logging food in very few taps, a built-in food database you can extend, AI-assisted dish creation from a description or a photo, an energy-expenditure estimate that adapts to the weight you log, and charts for weight, calories and macros.
 
 ## Features
 
@@ -17,14 +17,14 @@ A native iOS food diary and macronutrient calculator built with Swift, SwiftUI, 
 ## Project layout
 
 ```
-project.yml                 xcodegen spec → MacroLog.xcodeproj
-MacroLog/
+project.yml                 xcodegen spec → FoodLodge.xcodeproj
+FoodLodge/
   App/                      entry point, root tab view
   Models/                   SwiftData models, nutrients, persistence (+ type-check shim)
   Services/                 nutrition engine, app store, AI service, seeder, keychain
   Views/                    Diary, Foods, Weight, Charts, Settings, Onboarding, Components
   Resources/                Localizable.xcstrings, foods_seed.json, Assets.xcassets
-MacroLogTests/              XCTest unit tests for the nutrition engine and seed data
+FoodLodgeTests/              XCTest unit tests for the nutrition engine and seed data
 scripts/typecheck.sh        type-checks everything with the bare Swift toolchain
 ```
 
@@ -37,10 +37,10 @@ scripts/typecheck.sh        type-checks everything with the bare Swift toolchain
 
 ```bash
 xcodegen generate
-open MacroLog.xcodeproj
+open FoodLodge.xcodeproj
 ```
 
-Select the MacroLog scheme and an iPhone simulator, then run. On first launch the app seeds the food database and shows onboarding (sex, birth date, height, activity, goal, starting weight).
+Select the FoodLodge scheme and an iPhone simulator, then run. On first launch the app seeds the food database and shows onboarding (sex, birth date, height, activity, goal, starting weight).
 
 ### AI dish creation
 
@@ -48,7 +48,7 @@ Enter a Claude API key in **Settings → AI dish creation**. The key is stored i
 
 ## Tests
 
-Run the MacroLogTests target in Xcode (⌘U). The tests cover the metabolic-rate formula, weight-trend smoothing, the adaptive expenditure estimator, target calculation (including the calorie floor), nutrient profile maths, seed-database consistency and meal suggestion.
+Run the FoodLodgeTests target in Xcode (⌘U). The tests cover the metabolic-rate formula, weight-trend smoothing, the adaptive expenditure estimator, target calculation (including the calorie floor), nutrient profile maths, seed-database consistency and meal suggestion.
 
 `scripts/typecheck.sh` type-checks the whole code base without Xcode, replacing the SwiftData macros with a shim (`-D SWIFTDATA_SHIM`). It is a fast sanity check, not a substitute for a real build.
 

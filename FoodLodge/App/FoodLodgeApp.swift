@@ -4,7 +4,7 @@ import SwiftData
 #endif
 
 @main
-struct MacroLogApp: App {
+struct FoodLodgeApp: App {
     private let container: ModelContainer
     @State private var store: AppStore
 
